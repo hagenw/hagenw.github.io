@@ -1,10 +1,17 @@
 ---
 layout: post
-title: "Frank et al. - Spatial Audio Rendering"
+header: "Frank et al. - Spatial Audio Rendering"
 comments: true
 description: "Frank et al. - Spatial Audio Rendering"
 keywords: "dummy content"
 author: "M. Frank, F. Zotter, H. Wierstorf, S. Spors"
+title: "Spatial Audio Rendering"
+journal: "In *Quality of Experience*, Eds. S. Möller, A. Raake"
+pages: "247-260"
+year: "2014"
+url: "http://link.springer.com/chapter/10.1007%2F978-3-319-02681-7_17"
+paper: 
+presentation: 
 published: true
 ---
 
