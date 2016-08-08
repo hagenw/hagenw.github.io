@@ -10,7 +10,7 @@ editor: "J Blauert"
 publisher: "Springer Berlin Heidelberg"
 address: "Berlin, Heidelberg"
 pages: "255-278"
-isbn="978-3-642-37762-4"
+isbn: "978-3-642-37762-4"
 url: "http://dx.doi.org/10.1007/978-3-642-37762-4_10"
 doi: "10.1007/978-3-642-37762-4_10"
 year: "2013"
@@ -22,18 +22,18 @@ published: true
 ### Bibtex
 
 ```latex
-@Inbook{wierstorf_et_al-2013c,
-author="Wierstorf, H. and Raake, A. and Spors, S.",
-editor="Blauert, Jens",
-title="Binaural Assessment of Multichannel Reproduction",
-bookTitle="The Technology of Binaural Listening",
-year="2013",
-publisher="Springer Berlin Heidelberg",
-address="Berlin, Heidelberg",
-pages="255--278",
-isbn="978-3-642-37762-4",
-doi="10.1007/978-3-642-37762-4_10",
-url="http://dx.doi.org/10.1007/978-3-642-37762-4_10"
+@inbook{Wierstorf2013c,
+    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
+    editor = {Blauert, Jens},
+    title= {Binaural Assessment of Multichannel Reproduction},
+    booktitle = {The Technology of Binaural Listening},
+    year = {2013},
+    publisher = {Springer},
+    address = {Berlin Heidelberg},
+    pages = {255--278},
+    isbn = {978-3-642-37762-4},
+    doi = {10.1007/978-3-642-37762-4_10},
+    url = {http://dx.doi.org/10.1007/978-3-642-37762-4_10}
 }
 ```
 

@@ -21,16 +21,16 @@ published: true
 ### Bibtex
 
 ```latex
-article{avni_et_al-2013,
-   author = "Avni, Amir and Ahrens, Jens and Geier, Matthias and Spors, Sascha and Wierstorf, Hagen and Rafaely, Boaz",
-   title = "Spatial perception of sound fields recorded by spherical microphone arrays with varying spatial resolution",
-   journal = "The Journal of the Acoustical Society of America",
-   year = "2013",
-   volume = "133",
-   number = "5",
-   pages = "2711-2721",
-   url = "http://scitation.aip.org/content/asa/journal/jasa/133/5/10.1121/1.4795780",
-   doi = "http://dx.doi.org/10.1121/1.4795780"
+article{Avni2013,
+   author = {Avni, Amir and Ahrens, Jens and Geier, Matthias and Spors, Sascha and Wierstorf, Hagen and Rafaely, Boaz},
+   title = {Spatial perception of sound fields recorded by spherical microphone arrays with varying spatial resolution},
+   journal = {The Journal of the Acoustical Society of America},
+   year = {2013},
+   volume = {133},
+   number = {5},
+   pages = {2711--2721},
+   url = {http://scitation.aip.org/content/asa/journal/jasa/133/5/10.1121/1.4795780},
+   doi = {http://dx.doi.org/10.1121/1.4795780}
 }
 ```
 

@@ -19,7 +19,7 @@ published: true
 ### Bibtex
 
 ```latex
-@article{wierstorf_et_al-2013a,
+@article{Wierstorf2013a,
 	title = {Perception of Focused Sources in Wave Field Synthesis},
     author = {Wierstorf, Hagen and Raake, Alexander and Geier, Matthias and Spors, Sascha},
     journal = {J. Audio Eng. Soc},
