@@ -4,23 +4,21 @@ layout: default
 
 <article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y" }}</time>
-        {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
-        {% if page.title %}
-            • {% if page.book %}<i>{% endif %}{{ page.title }}{% if page.book %}</i>{% endif %}.
-        {% endif %}
-    </p>
     <h1 class="post-title" itemprop="name headline">
-        {% if page.author %}{{ page.author }} • {% endif %}
-        {% if page.title %}{% if page.book %}<i>{% endif %}{{ page.title }}{% if page.book %}</i>{% endif %} • {% endif %}
+        {% if page.title %}{{ page.title }}{% endif %}
+    </h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    <p>
+        {% if page.author %}{{ page.author }}, {% endif %}
+        {% if page.title %}{% if page.book %}<i>{% endif %}{{ page.title }}{% if
+            page.book %}</i>{% endif %}, {% endif %}
         {% if page.proceedings %}In <i>{{ page.proceedings }}</i>, {% endif %}
         {% if page.bookchapter %}In <i>{{ page.bookchapter }}</i>, {% if page.editor %}Ed. {{ page.editor }}, {% endif %}{% if page.editors %}Eds. {{ page.editors }}, {% endif %}{% endif %}
         {% if page.journal %}{{ page.journal }}, {% endif %}
         {% if page.pages %}p. {{ page.pages }} {% endif %}
         {% if page.year %}({{ page.year }}).{% endif %}
-    </h1>
-  </header>
-  <div class="post-content" itemprop="articleBody">
+    </p>
     {{ content }}
     {% include post-share.html %}
   </div>
