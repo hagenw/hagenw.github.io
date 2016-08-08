@@ -1,6 +1,5 @@
 ---
 layout: post
-Synthesis"
 comments: false
 description: "Avni et al. - Spatial perception of sound fields recorded by
 spherical microphone arrays with varying spatial resolution"
