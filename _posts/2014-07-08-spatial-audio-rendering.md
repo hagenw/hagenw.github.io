@@ -1,9 +1,8 @@
 ---
 layout: post
 header: "Frank et al. - Spatial Audio Rendering"
-comments: true
+comments: false
 description: "Frank et al. - Spatial Audio Rendering"
-keywords: "dummy content"
 author: "M Frank, F Zotter, H Wierstorf, S Spors"
 title: "Spatial Audio Rendering"
 bookchapter: "Quality of Experience"
@@ -25,12 +24,12 @@ In Quality of Experience, Eds. S. Möller, A. Raake, p. 247-260, 2014.
 
 ### Abstract
 
-- Download or fork the master branch of this theme repo into you GitHub account.
-- Rename the repo into something like `your_username.github.io`.
-- Edit `_config.yml` file to your preferences.
-- Edit `about.md` file for your About page.
-- Inside `_posts` folder, there are sample of blog entries. Learn from it and start yours.
-- Now, visit `http://your_username.github.io` and you should see your blog running.
+Complementary to non-spatialized signals and their transmission, this chapter
+gives an overview of the quality of rendering methods that create spatial sound.
+Common methods and the underlying concept of a virtual sound scene are
+introduced and the herewith associated quality features. In particular,
+evaluation strategies and experimental results are presented in order to discuss
+spatial and timbral quality features of spatial audio rendering.
 
 ### Errata
 
