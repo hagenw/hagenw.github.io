@@ -1,7 +1,5 @@
 ---
 layout: post
-header: "Wierstorf et al. - Perception of Focused Sources in Wave Field
-Synthesis"
 comments: false
 description: "Wierstorf et al. - Perception of Focused Sources in Wave Field
 Synthesis"
@@ -21,7 +19,7 @@ published: true
 ### Bibtex
 
 ```latex
-@article{wierstorf2013perception,
+@article{wierstorf_et_al-2013a,
 	title = {Perception of Focused Sources in Wave Field Synthesis},
     author = {Wierstorf, Hagen and Raake, Alexander and Geier, Matthias and Spors, Sascha},
     journal = {J. Audio Eng. Soc},
