@@ -11,7 +11,7 @@ inproceedings: "Audio Engineering Society Convention 134"
 pages: "Paper 8880"
 year: "2013"
 url: "http://www.aes.org/e-lib/browse.cfm?elib=16781"
-paper: "majdak_et_al-2013-spatially-oriented-format-for-acoustics.pdf"
+paper: "majdak_et_al-2013-spatially_oriented_format_for_acoustics.pdf"
 presentation: 
 published: true
 ---
