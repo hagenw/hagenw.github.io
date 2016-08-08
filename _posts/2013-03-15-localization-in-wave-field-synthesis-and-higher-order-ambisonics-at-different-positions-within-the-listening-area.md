@@ -7,7 +7,7 @@ author: "H Wierstorf, A Raake, S Spors"
 title: "Localization in Wave Field Synthesis and higher order Ambisonics at
 different positions within the listening area"
 inproceedings: "German Annual Conference on Acoustics (DAGA)"
-pages: 
+pages: "2376-2379"
 year: "2013"
 url: 
 paper: "wierstorf_et_al-2013-localization_in_wave_field_synthesis_and_higher_order_ambisonics_at_different_positions.pdf"
@@ -18,6 +18,13 @@ published: true
 ### Bibtex
 
 ```latex
+@inproceedings{Wierstorf2013b,
+    title = {Localization in Wave Field Synthesis and higher order Ambisonics at different positions within the listening area},
+    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
+    booktitle = {German Annual Conference on Acoustics (DAGA)},
+    pages = {2376--2379},
+    year = {2013}
+}
 ```
 
 ### Abstract
