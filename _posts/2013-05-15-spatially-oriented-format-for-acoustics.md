@@ -6,7 +6,7 @@ Exchange Format Representing Head-Related Transfer Functions "
 author: "P Majdak, T Carpentier, R Nicol, M Parmentier, A Roginska, Y Suzuki,
 K Watanabe, H Wierstorf, H Ziegelwanger, M Noisternig"
 title: "Spatially Oriented Format for Acoustics: A Data Exchange Format
-Representing Head-Related Transfer Functions "
+Representing Head-Related Transfer Functions"
 inproceedings: "Audio Engineering Society Convention 134"
 pages: "Paper 8880"
 year: "2013"
