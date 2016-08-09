@@ -18,6 +18,7 @@ published: true
 
 ### Bibtex
 
+```latex
 @inbook{Frank2014,
     author = {Frank, Matthias and Zotter, Franz and Wierstorf, Hagen and Spors, Sascha},
     editors = {Möller, Sebastian and Raake, Alexander},
@@ -31,6 +32,7 @@ published: true
     doi = {10.1007/978-3-319-02681-7_17},
     url = {http://dx.doi.org/10.1007/978-3-319-02681-7_17}
 }
+```
 
 ### Abstract
 
