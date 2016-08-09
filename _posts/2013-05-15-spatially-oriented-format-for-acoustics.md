@@ -7,7 +7,7 @@ author: "P Majdak, T Carpentier, R Nicol, M Parmentier, A Roginska, Y Suzuki,
 K Watanabe, H Wierstorf, H Ziegelwanger, M Noisternig"
 title: "Spatially Oriented Format for Acoustics: A Data Exchange Format
 Representing Head-Related Transfer Functions"
-inproceedings: "Audio Engineering Society Convention 134"
+proceedings: "Audio Engineering Society Convention 134"
 short: "AES"
 papernumber: "8880"
 year: "2013"
@@ -47,10 +47,17 @@ future HRTF and DRIR databases.
 ### Supplementary material
 
 The SOFA HRTF format has become an AES standard in the meantime, see
-http://www.aes.org/publications/standards/search.cfm?docID=99
+[http://www.aes.org/publications/standards/search.cfm?docID=99](http://www.aes.org/publications/standards/search.cfm?docID=99)
 
 For more information on the format and available data bases, see
-https://www.sofaconventions.org
+[https://www.sofaconventions.org](https://www.sofaconventions.org)
 
-Implementations of an API in Matlab/Octave and C++ can be found at
-https://github.com/sofacoustics
+API implementations in Matlab/Octave and C++ can be found at
+[https://github.com/sofacoustics](https://github.com/sofacoustics)
+
+Two example applications using the API and providing more functionality like
+getting the impulse response for a particular listening position and direction
+are the [Two!Ears Binaural Simulator](https://github.com/TWOEARS/binaural-simulator)
+and the [Sound Field Synthesis Toolbox](https://github.com/sfstoolbox/sfs), in
+particular
+[`get_ir()`](https://github.com/sfstoolbox/sfs/blob/master/SFS_ir/get_ir.m).
