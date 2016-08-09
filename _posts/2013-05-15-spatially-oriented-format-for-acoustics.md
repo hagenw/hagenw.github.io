@@ -8,6 +8,7 @@ K Watanabe, H Wierstorf, H Ziegelwanger, M Noisternig"
 title: "Spatially Oriented Format for Acoustics: A Data Exchange Format
 Representing Head-Related Transfer Functions"
 inproceedings: "Audio Engineering Society Convention 134"
+short: "AES"
 papernumber: "8880"
 year: "2013"
 url: "http://www.aes.org/e-lib/browse.cfm?elib=16781"

@@ -5,6 +5,7 @@ description: "Spors and Wierstorf - A Virtual Endfire Loudspeaker Array for the 
 author: "S. Spors, H Wierstorf"
 title: "A Virtual Endfire Loudspeaker Array for the Generation of Sound Beams"
 inproceedings: "German Annual Conference on Acoustics (DAGA)"
+short: "DAGA"
 pages: "2349-2351"
 year: "2013"
 url: 

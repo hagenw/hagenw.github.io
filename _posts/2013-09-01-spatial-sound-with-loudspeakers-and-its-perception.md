@@ -7,6 +7,7 @@ author: "S Spors, H Wierstorf, A Raake, F Melchior, M Frank, F Zotter"
 title: "Spatial Sound With Loudspeakers and Its Perception: A Review of the
 Current State"
 journal: "Proceedings of the IEEE"
+journalshort: "IEEE"
 pages: "1920-1938"
 volume: "101"
 number: "9"

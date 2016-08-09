@@ -7,6 +7,7 @@ author: "H Wierstorf, A Raake, S Spors"
 title: "Localization in Wave Field Synthesis and higher order Ambisonics at
 different positions within the listening area"
 inproceedings: "German Annual Conference on Acoustics (DAGA)"
+short: "DAGA"
 pages: "2376-2379"
 year: "2013"
 url: 

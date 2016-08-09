@@ -7,6 +7,7 @@ author: "A Avni, J Ahrens, M Geier, S Spors, H Wierstorf, B Rafaely"
 title: "Spatial perception of sound fields recorded by spherical microphone
 arrays with varying spatial resolution"
 journal: "The Journal of the Acoustical Society of America"
+journalshort: "JASA"
 pages: "2711-2721"
 volume: "133"
 number: "5"
