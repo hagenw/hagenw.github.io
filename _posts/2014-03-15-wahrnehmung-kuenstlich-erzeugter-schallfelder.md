@@ -9,8 +9,8 @@ short: "DAGA"
 pages: "347-348"
 year: "2014"
 url: 
-paper: "wierstorf_et_al-2014a-wahrnehmung_kuenstlich_erzeugter_schallfelder.pdf"
-presentation: "wierstorf_et_al-2014a-wahrnehmung_kuenstlich_erzeugter_schallfelder-presentation.pdf"
+paper: "wierstorf_et_al-2014-wahrnehmung_kuenstlich_erzeugter_schallfelder.pdf"
+presentation: "wierstorf_et_al-2014-wahrnehmung_kuenstlich_erzeugter_schallfelder-presentation.pdf"
 published: true
 ---
 
