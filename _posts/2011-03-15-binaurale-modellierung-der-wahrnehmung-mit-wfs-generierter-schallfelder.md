@@ -11,8 +11,8 @@ short: "DAGA"
 pages: ""
 year: "2011"
 url: 
-paper: "wierstorf_et_al-2011-binaurale-modellierung-der-wahrnehmung-mit-wfs-generierter-schallfelder.pdf"
-presentation: "wierstorf_et_al-2011-binaurale-modellierung-der-wahrnehmung-mit-wfs-generierter-schallfelder-presentation.pdf"
+paper: "wierstorf_et_al-2011-binaurale_modellierung_der_wahrnehmung_mit_wfs_generierter_schallfelder.pdf"
+presentation: "wierstorf_et_al-2011-binaurale_modellierung_der_wahrnehmung_mit_wfs_generierter_schallfelder-presentation.pdf"
 published: true
 ---
 

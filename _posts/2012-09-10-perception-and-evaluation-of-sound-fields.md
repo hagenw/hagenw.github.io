@@ -9,8 +9,8 @@ short: "OSA"
 pages: "263-268"
 year: "2012"
 url: 
-paper: "wierstorf_et_al-2012-perception-and-evaluation-of-sound-fields.pdf"
-presentation: "wierstorf_et_al-2012-perception-and-evaluation-of-sound-fields-presentation.pdf"
+paper: "wierstorf_et_al-2012-perception_and_evaluation_of_sound_fields.pdf"
+presentation: "wierstorf_et_al-2012-perception_and_evaluation_of_sound_fields-presentation.pdf"
 published: true
 ---
 

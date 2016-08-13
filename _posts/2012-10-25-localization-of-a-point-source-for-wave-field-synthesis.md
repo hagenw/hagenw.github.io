@@ -11,8 +11,8 @@ short: "AES"
 papernumber: "8743"
 year: "2012"
 url: "http://www.aes.org/e-lib/browse.cfm?elib=16485"
-paper: "wierstorf_et_al-2012-localization-of-a-point-source-for-wave-field-synthesis.pdf"
-presentation: "wierstorf_et_al-2012-localization-of-a-point-source-for-wave-field-synthesis-presentation.pdf"
+paper: "wierstorf_et_al-2012-localization_of_a_point_source_for_wave_field_synthesis.pdf"
+presentation: "wierstorf_et_al-2012-localization_of_a_point_source_for_wave_field_synthesis-presentation.pdf"
 published: true
 ---
 

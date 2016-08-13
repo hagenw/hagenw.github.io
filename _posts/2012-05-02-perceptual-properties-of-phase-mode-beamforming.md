@@ -12,7 +12,7 @@ short: "ISCCSP"
 pages: "1-4"
 year: "2012"
 url: "http://dx.doi.org/10.1109/ISCCSP.2012.6217843"
-paper: "spors_and_wierstorf-2012-perceptual-properties-of-phase-mode-beamforming.pdf"
+paper: "spors_and_wierstorf-2012-perceptual_properties_of_phase_mode_beamforming.pdf"
 published: true
 ---
 
