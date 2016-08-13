@@ -44,3 +44,11 @@ spacing below 1 cm. Spectro-temporal artifacts are relevant only for the
 synthesis of focused sources. At the end of the thesis, a binaural auditory
 model is presented that is able to predict the spatial fidelity for any given
 loudspeaker setup.
+
+
+### Supplementary material
+
+The code and links to the data are available at
+[github](https://github.com/hagenw/phd-thesis). The
+[Errata](http://nbviewer.jupyter.org/github/hagenw/phd-thesis/blob/master/ERRATA.ipynb)
+as a [Jupyter Notebook](http://jupyter.org/).
