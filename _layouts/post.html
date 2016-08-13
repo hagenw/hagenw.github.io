@@ -17,10 +17,12 @@ layout: default
         {% if page.journal %}{{ page.journal }}{% if page.volume %} <strong>{{ page.volume }}</strong>{% endif %}, {% endif %}
         {% if page.pages %}p. {{ page.pages }} {% endif %}
         {% if page.papernumber %}Paper {{ page.papernumber }}{% endif %}
+        {% if page.ebrief %}eBrief {{ page.ebriefnumber }}{% endif %}
         {% if page.year %}({{ page.year }}).{% endif %}
         {% if page.url %} <a href="{{ page.url }}">[ link ]</a> {% endif %}
         {% if page.paper %} <a href="{{ site.url }}/{{ page.paper }}">[ paper ]</a> {% endif %}
         {% if page.presentation %} <a href="{{ site.url }}/{{ page.presentation }}">[ presentation ]</a> {% endif %}
+        {% if page.poster %} <a href="{{ site.url }}/{{ page.poster }}">[ poster ]</a> {% endif %}
     </p>
     {{ content }}
     {% include post-share.html %}
