@@ -22,7 +22,7 @@ published: true
 ### Bibtex
 
 ```latex
-article{Avni2013,
+@article{Avni2013,
    author = {Avni, Amir and Ahrens, Jens and Geier, Matthias and Spors, Sascha and Wierstorf, Hagen and Rafaely, Boaz},
    title = {Spatial perception of sound fields recorded by spherical microphone arrays with varying spatial resolution},
    journal = {The Journal of the Acoustical Society of America},

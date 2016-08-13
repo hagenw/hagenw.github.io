@@ -17,8 +17,8 @@ published: true
 ### Bibtex
 
 ```latex
-@Inproceedings{Wierstorf2014d,
-    author = {Wierstorf, H. and Spors, S.},
+@inproceedings{Wierstorf2014d,
+    author = {Wierstorf, Hagen and Spors, Sascha},
     title = {Predicting localization accuracy for stereophonic downmixes in Wave Field Synthesis},
     year = {2014},
     address = {Krakow, Poland},

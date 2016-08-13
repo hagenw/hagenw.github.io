@@ -16,7 +16,7 @@ published: true
 ### Bibtex
 
 ```latex
-@Inproceedings{Raake2014,
+@inproceedings{Raake2014,
     author = {Raake, Alexander and Wierstorf, Hagen and Blauert, Jens},
     title = {{A case for TWO!EARS in audio quality assessment}},
     year = {2014},
