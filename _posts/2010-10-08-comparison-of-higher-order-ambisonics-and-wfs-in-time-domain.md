@@ -3,7 +3,7 @@ layout: post
 comments: false
 description: "Ahrens et al. - Comparison of Higher Order Ambisonics and Wave
 Field Synthesis with Respect to Spatial Discretization Artifacts in Time Domain"
-author: "J Ahrens, S Spors, H Wierstorf"
+author: "J Ahrens, H Wierstorf, S Spors"
 title: "Comparison of Higher Order Ambisonics and Wave Field Synthesis with
 Respect to Spatial Discretization Artifacts in Time Domain"
 proceedings: "40th Audio Engineering Society International Conference"
@@ -20,7 +20,7 @@ published: true
 ```latex
 @inproceedings{Ahrens2010,
   	title = {Comparison of Higher Order Ambisonics and Wave Field Synthesis with Respect to Spatial Discretization Artifacts in Time Domain},
-    author = {Ahrens, Jens and Spors, Sascha and Wierstorf, Hagen},
+    author = {Ahrens, Jens and Wierstorf, Hagen and Spors, Sascha},
     booktitle = {40th Audio Engineering Society International Conference},
     pages = {Paper 6-1},
     year = {2010},
