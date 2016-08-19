@@ -24,10 +24,10 @@ published: true
     editors = {Möller, Sebastian and Raake, Alexander},
     title= {Spatial Audio Rendering},
     booktitle = {Quality of Experience: Advanced Concepts, Applications and Methods},
-    year = {2014},
     publisher = {Springer},
     address = {Berlin Heidelberg},
     pages = {247--260},
+    year = {2014},
     isbn = {978-3-319-02681-7},
     doi = {10.1007/978-3-319-02681-7_17},
     url = {http://dx.doi.org/10.1007/978-3-319-02681-7_17}

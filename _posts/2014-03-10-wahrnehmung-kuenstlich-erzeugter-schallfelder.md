@@ -4,11 +4,10 @@ comments: false
 description: "Wierstorf et al. - Wahrnehmung künstlich erzeugter Schallfelder"
 author: "H Wierstorf, S Spors, A Raake"
 title: "Wahrnehmung künstlich erzeugter Schallfelder"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2014"
 short: "DAGA"
 pages: "347-348"
 year: "2014"
-url: 
 paper: "wierstorf_et_al-2014-wahrnehmung_kuenstlich_erzeugter_schallfelder.pdf"
 presentation: "wierstorf_et_al-2014-wahrnehmung_kuenstlich_erzeugter_schallfelder-presentation.pdf"
 published: true
@@ -20,8 +19,11 @@ published: true
 @inproceedings{Wierstorf2014a,
     title = {{Wahrnehmung künstlich erzeugter Schallfelder}},
     author = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
+    booktitle = {Fortschritte der Akustik - DAGA 2014},
+    publisher = {DEGA e.V.},
+    address = {Oldenburg, Germany},
     pages = {347--348},
+    month = {March},
     year = {2014}
 }
 ```

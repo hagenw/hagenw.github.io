@@ -28,10 +28,10 @@ published: true
     editor = {Blauert, Jens},
     title= {Binaural Assessment of Multichannel Reproduction},
     booktitle = {The Technology of Binaural Listening},
-    year = {2013},
     publisher = {Springer},
     address = {Berlin Heidelberg},
     pages = {255--278},
+    year = {2013},
     isbn = {978-3-642-37762-4},
     doi = {10.1007/978-3-642-37762-4_10},
     url = {http://dx.doi.org/10.1007/978-3-642-37762-4_10}

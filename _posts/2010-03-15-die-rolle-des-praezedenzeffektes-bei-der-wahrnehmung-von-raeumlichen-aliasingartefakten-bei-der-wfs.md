@@ -6,9 +6,10 @@ Wahrnehmung von Räumlichen Aliasingartefakten bei der Wellenfeldsynthese"
 author: "H Wierstorf, A Raake, S Spors"
 title: "Die Rolle des Präzedenzeffektes bei der Wahrnehmung von Räumlichen
 Aliasingartefakten bei der Wellenfeldsynthese"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2010"
+editors: "M Möser, B Schulte-Fortkamp, M Ochmann"
 short: "DAGA"
-pages: ""
+pages: "639-640"
 year: "2010"
 paper: "wierstorf_et_al-2010-die_rolle_des_praezedenzeffektes_bei_der_wahrnehmung_von_raeumlichen_aliasingartefakten_bei_der_wfs.pdf"
 presentation: "wierstorf_et_al-2010-die_rolle_des_praezedenzeffektes_bei_der_wahrnehmung_von_raeumlichen_aliasingartefakten_bei_der_wfs-presentation.pdf"
@@ -21,9 +22,12 @@ published: true
 @inproceedings{Wierstorf2010a,
     title = {{Die Rolle des Präzedenzeffektes bei der Wahrnehmung von Räumlichen Aliasingartefakten bei der Wellenfeldsynthese}},
     author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
-    pages = {},
-    year = {2011}
+    booktitle = {Fortschritte der Akustik - DAGA 2010},
+    publisher = {DEGA e.V.},
+    address = {Berlin, Germany},
+    pages = {639--640},
+    month = {March},
+    year = {2010}
 }
 ```
 

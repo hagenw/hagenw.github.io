@@ -6,7 +6,7 @@ beamforming in the context of data-based binaural synthesis"
 author: "S Spors, H Wierstorf, M Geier"
 title: "Comparison of modal versus delay-and-sum beamforming in the context of
 data-based binaural synthesis"
-proceedings: "132nd Audio Engineering Society Convention"
+proceedings: "132nd Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8669"
 year: "2012"
@@ -21,8 +21,10 @@ published: true
 @inproceedings{Spors2012b,
   	title = {Comparison of modal versus delay-and-sum beamforming in the context of data-based binaural synthesis},
     author = {Spors, Sascha and Wierstorf, Hagen and Geier, Matthias},
-    booktitle = {132nd Audio Engineering Society Convention},
-    pages = {Paper 8669},
+    booktitle = {132nd Convention of the Audio Engineering Society},
+    address = {Budapest, Hungary},
+    pages = {preprint 8669},
+    month = {April},
     year = {2012},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=16307}
 }

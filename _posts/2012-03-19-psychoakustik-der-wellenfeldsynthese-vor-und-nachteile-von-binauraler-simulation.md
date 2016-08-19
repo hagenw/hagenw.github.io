@@ -6,11 +6,10 @@ Nachteile von binauraler Simulation"
 author: "H Wierstorf, A Raake, S Spors"
 title: "Psychoakustik der Wellenfeldsynthese: Vor- und Nachteile von binauraler
 Simulation"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2012"
 short: "DAGA"
-pages: ""
+pages: "317-318"
 year: "2012"
-url: 
 paper: "wierstorf_et_al-2012-psychoakustik_der_wellenfeldsynthese_vor-_und_nachteile_von_binauraler_simulation.pdf"
 presentation: "wierstorf_et_al-2012-psychoakustik_der_wellenfeldsynthese_vor-_und_nachteile_von_binauraler_simulation-presentation.pdf"
 published: true
@@ -22,8 +21,11 @@ published: true
 @inproceedings{Wierstorf2012a,
     title = {{Psychoakustik der Wellenfeldsynthese: Vor- und Nachteile von binauraler Simulation}},
     author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
-    pages = {},
+    booktitle = {Fortschritte der Akustik - DAGA 2012},
+    publisher = {DEGA e.V.},
+    address = {Darmstadt, Germany},
+    pages = {317--318},
+    month = {March},
     year = {2012}
 }
 ```

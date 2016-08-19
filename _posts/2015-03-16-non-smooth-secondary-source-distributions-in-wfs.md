@@ -5,7 +5,7 @@ description: "Spors et al. - Non-Smooth Secondary Source Distributions in Wave
 Field Synthesis"
 author: "S Spors, F Schultz, H Wierstorf"
 title: "Non-Smooth Secondary Source Distributions in Wave Field Synthesis"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2015"
 short: "DAGA"
 pages: "1591-1594"
 year: "2015"
@@ -19,9 +19,10 @@ published: true
 @inproceedings{Spors2015,
     title = {Non-Smooth Secondary Source Distributions in Wave Field Synthesis},
     author = {Spors, Sascha and Schultz, Frank and Wierstorf, Hagen},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
-    pages = {1591--1594},
+    booktitle = {Fortschritte der Akustik - DAGA 2015},
+    publisher = {DEGA e.V.},
     address = {Nuremberg, Germany},
+    pages = {1591--1594},
     month = {March},
     year = {2015}
 }

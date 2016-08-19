@@ -6,7 +6,7 @@ with a Binaural Auditory Model"
 author: "M Takanen, H Wierstorf, V Pulkki, A Raake"
 title: "Evaluation of Sound Field Synthesis Techniques with a Binaural Auditory
 Model"
-proceedings: "55th Audio Engineering Society International Conference"
+proceedings: "55th International Conference of the Audio Engineering Society"
 short: "AES"
 papernumber: "6-3"
 year: "2014"
@@ -21,8 +21,10 @@ published: true
 @inproceedings{Takanen2014,
   	title = {Evaluation of Sound Field Synthesis Techniques with a Binaural Auditory Model},
     author = {Takanen, Marko and Wierstorf, Hagen and Pulkki, Ville and Raake, Alexander},
-    booktitle = {55th Audio Engineering Society International Conference},
+    booktitle = {55th International Conference of the Audio Engineering Society},
+    address = {Helsinki, Finland},
     pages = {Paper 6-3},
+    month = {August},
     year = {2014},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=17361}
 }

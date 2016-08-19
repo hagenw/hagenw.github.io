@@ -10,7 +10,6 @@ proceedings: "Proceedings of the 21st International Congress on Sound and
 Vibration (ICSV)"
 short: "ICSV"
 year: "2014"
-url: 
 paper: "majdak_et_al-2014-efficient_representation_of_head-related_transfer_functions.pdf"
 presentation: 
 published: true
@@ -23,6 +22,8 @@ published: true
   	title = {Efficient representation of head-related transfer functions using spatially oriented format for acoustics},
     author = {Majdak, Piotr and Ziegelwanger, Harald and Wierstorf, Hagen and Noisternig, Markus},
     booktitle = {Proceedings of the 21st International Congress on Sound and Vibration (ICSV)},
+    address = {Beijing, China},
+    month = {July},
     year = {2014},
 }
 ```

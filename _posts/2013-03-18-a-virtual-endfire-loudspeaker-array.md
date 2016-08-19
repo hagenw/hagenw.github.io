@@ -4,11 +4,10 @@ comments: false
 description: "Spors and Wierstorf - A Virtual Endfire Loudspeaker Array for the Generation of Sound Beams"
 author: "S. Spors, H Wierstorf"
 title: "A Virtual Endfire Loudspeaker Array for the Generation of Sound Beams"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2013"
 short: "DAGA"
 pages: "2349-2351"
 year: "2013"
-url: 
 paper: "spors_and_wierstorf-2013-a_virtual_endfire_loudspeaker_array.pdf"
 presentation: 
 published: true
@@ -20,8 +19,11 @@ published: true
 @inproceedings{Spors2013a,
     title = {A Virtual Endfire Loudspeaker Array for the Generation of Sound Beams},
     author = {Spors, Sascha and Wierstorf, Hagen},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
+    booktitle = {Fortschritte der Akustik - DAGA 2013},
+    publisher = {DEGA e.V.},
+    address = {Merano, Italy},
     pages = {2349--2351},
+    month = {March},
     year = {2013}
 }
 ```

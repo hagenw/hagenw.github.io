@@ -6,7 +6,7 @@ Head-Related Transfer Functions Using Virtual Local Wave Field Synthesis"
 author: "S Spors, H Wierstorf, J Ahrens"
 title: "Interpolation and Range Extrapolation of Head-Related Transfer Functions
 Using Virtual Local Wave Field Synthesis"
-proceedings: "130th Audio Engineering Society Convention"
+proceedings: "130th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8392"
 year: "2011"
@@ -21,8 +21,10 @@ published: true
 @inproceedings{Spors2011,
   	title = {Interpolation and Range Extrapolation of Head-Related Transfer Functions Using Virtual Local Wave Field Synthesis},
     author = {Spors, Sascha and Wierstorf, Hagen and Ahrens, Jens},
-    booktitle = {130th Audio Engineering Society Convention},
-    pages = {Paper 8392},
+    booktitle = {130th Convention of the Audio Engineering Society},
+    address = {London, UK},
+    pages = {preprint 8392},
+    month = {May},
     year = {2011},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=15859}
 }

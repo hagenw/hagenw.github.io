@@ -8,7 +8,6 @@ proceedings: "59th Open Seminar on Acoustics"
 short: "OSA"
 pages: "263-268"
 year: "2012"
-url: 
 paper: "wierstorf_et_al-2012-perception_and_evaluation_of_sound_fields.pdf"
 presentation: "wierstorf_et_al-2012-perception_and_evaluation_of_sound_fields-presentation.pdf"
 published: true
@@ -21,7 +20,9 @@ published: true
     title = {Perception and evaluation of sound fields},
     author = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
     booktitle = {59th Open Seminar on Acoustics},
+    address = {Boszkowo, Poland},
     pages = {263--268},
+    month = {September},
     year = {2012}
 }
 ```

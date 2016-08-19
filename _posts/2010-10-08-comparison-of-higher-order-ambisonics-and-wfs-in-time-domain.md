@@ -6,7 +6,7 @@ Field Synthesis with Respect to Spatial Discretization Artifacts in Time Domain"
 author: "J Ahrens, H Wierstorf, S Spors"
 title: "Comparison of Higher Order Ambisonics and Wave Field Synthesis with
 Respect to Spatial Discretization Artifacts in Time Domain"
-proceedings: "40th Audio Engineering Society International Conference"
+proceedings: "40th International Conference of the Audio Engineering Society"
 short: "AES"
 papernumber: "6-1"
 year: "2010"
@@ -21,8 +21,10 @@ published: true
 @inproceedings{Ahrens2010,
   	title = {Comparison of Higher Order Ambisonics and Wave Field Synthesis with Respect to Spatial Discretization Artifacts in Time Domain},
     author = {Ahrens, Jens and Wierstorf, Hagen and Spors, Sascha},
-    booktitle = {40th Audio Engineering Society International Conference},
+    booktitle = {40th International Conference of the Audio Engineering Society},
+    address = {Tokyo, Japan},
     pages = {Paper 6-1},
+    month = {October},
     year = {2010},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=15563}
 }

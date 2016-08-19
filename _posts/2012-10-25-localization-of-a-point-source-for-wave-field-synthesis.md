@@ -6,7 +6,7 @@ the Listening Area for Wave Field Synthesis"
 author: "H Wierstorf, A Raake, S Spors"
 title: "Localization of a Virtual Point Source within the Listening Area for
 Wave Field Synthesis"
-proceedings: "133rd Audio Engineering Society Convention"
+proceedings: "133rd Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8743"
 year: "2012"
@@ -23,7 +23,9 @@ published: true
   	title = {Localization of a Virtual Point Source within the Listening Area for Wave Field Synthesis},
     author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {133rd Audio Engineering Society Convention},
-    pages = {Paper 8743},
+    address = {San Francisco, CA},
+    pages = {preprint 8743},
+    month 0 {October},
     year = {2012},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=16485}
 }

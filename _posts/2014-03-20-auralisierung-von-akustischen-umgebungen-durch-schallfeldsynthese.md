@@ -20,6 +20,7 @@ published: true
     title = {{Auralisierung von akustischen Umgebungen durch Schallfeldsynthese}},
     author = {Spors, Sascha and Wierstorf, Hagen},
     booktitle = {DGA-Jahrestagung},
+    month = {March},
     year = {2014}
 }
 ```

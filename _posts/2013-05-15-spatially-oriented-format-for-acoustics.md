@@ -7,7 +7,7 @@ author: "P Majdak, T Carpentier, R Nicol, M Parmentier, A Roginska, Y Suzuki,
 K Watanabe, H Wierstorf, H Ziegelwanger, M Noisternig"
 title: "Spatially Oriented Format for Acoustics: A Data Exchange Format
 Representing Head-Related Transfer Functions"
-proceedings: "Audio Engineering Society Convention 134"
+proceedings: "134th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8880"
 year: "2013"
@@ -23,7 +23,9 @@ published: true
 @inproceedings{Majdak2013,
   	title = {Spatially Oriented Format for Acoustics: A Data Exchange Format Representing Head-Related Transfer Functions},
     author = {Majdak, Piotr and Iwaya, Yukio and Carpentier, Thibaut and Nicol, Rozenn and Parmentier, Matthieu and Roginska, Agnieszka and Suzuki, Yoiti and Watanabe, Kankji and Wierstorf, Hagen and Ziegelwanger, Harald and Noisternig, Markus},
-    booktitle = {Audio Engineering Society Convention 134},
+    booktitle = {134th Convention of the Audio Engineering Society},
+    address = {Roma, Italy},
+    month 0 {May},
     year = {2013},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=16781}
 }

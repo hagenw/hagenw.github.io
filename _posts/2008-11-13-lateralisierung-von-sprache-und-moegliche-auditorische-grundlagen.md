@@ -20,8 +20,9 @@ published: true
 @thesis{Wierstorf2008c,
     author = {Wierstorf, Hagen},
     title = {{Lateralisierung von Sprache und mögliche auditorische Grundlagen. Eine fMRT-Studie.}},
-    year = {2008},
     school = {Carl von Ossietzky Universität Oldenburg},
-    address = {Oldenburg}
+    address = {Oldenburg, Germany},
+    month = {November},
+    year = {2008}
 }
 ```

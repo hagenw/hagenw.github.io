@@ -19,10 +19,11 @@ published: true
 @inproceedings{Soendergaard2011,
     author = {Søndergaard, Peter L. and Culling, John F. and Dau, Torsten and Le Goff, Nicolas and Jepsen, Morten L. and Majdak, Piotr and Wierstorf, Hagen},
     title = {Towards a binaural modelling toolbox},
-    year = {2011},
     address = {Aalborg, Denmark},
     booktitle = {Forum Acusticum},
-    pages = {2081--2086}
+    pages = {2081--2086},
+    month = {June},
+    year = {2011}
 }
 ```
 

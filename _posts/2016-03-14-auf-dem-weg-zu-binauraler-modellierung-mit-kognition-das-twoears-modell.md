@@ -6,7 +6,7 @@ Kognition: das Two!Ears Modell"
 author: "H Wierstorf, A Raake"
 title: "Auf dem Weg zu binauraler Modellierung mit Kognition: das Two!Ears
 Modell"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2016"
 short: "DAGA"
 year: "2016"
 presentation: "wierstorf_and_raake-2016-auf_dem_weg_zu_binauraler_modellierung_mit_kognition_das_twoears_modell-presentation.pdf"
@@ -19,7 +19,8 @@ published: true
 @misc{Wierstorf2016a,
     title = {{Auf dem Weg zu binauraler Modellierung mit Kognition: das Two!Ears Modell}},
     author = {Wierstorf, Hagen and Raake, Alexander},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
+    booktitle = {Fortschritte der Akustik - DAGA 2016},
+    publisher = {DEGA e.V.},
     address = {Aachen, Germany},
     month = {March},
     year = {2016}

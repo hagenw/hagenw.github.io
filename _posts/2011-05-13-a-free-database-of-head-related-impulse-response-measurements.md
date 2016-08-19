@@ -6,7 +6,7 @@ Response Measurements in the Horizontal Plane with Multiple Distances"
 author: "H Wierstorf, M Geier, S Spors"
 title: "A Free Database of Head Related Impulse Response Measurements in the
 Horizontal Plane with Multiple Distances"
-proceedings: "130th Audio Engineering Society Convention"
+proceedings: "130th Convention of the Audio Engineering Society"
 short: "AES"
 ebriefnumber: "6"
 year: "2011"
@@ -20,11 +20,12 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2011b,
-  	title = {A Free Database of Head Related Impulse
-    Response Measurements in the Horizontal Plane with Multiple Distances},
+  	title = {A Free Database of Head Related Impulse Response Measurements in the Horizontal Plane with Multiple Distances},
     author = {Wierstorf, Hagen Geier, Matthias and and Spors, Sascha},
-    booktitle = {130th Audio Engineering Society Convention},
+    booktitle = {130th Convention of the Audio Engineering Society},
+    address = {London, UK},
     pages = {eBrief 6},
+    month = {May},
     year = {2011},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=16564}
 }

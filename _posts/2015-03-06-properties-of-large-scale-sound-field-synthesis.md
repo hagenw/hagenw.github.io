@@ -5,7 +5,7 @@ description: "Ahrens and Wierstorf - Properties of Large-scale Sound Field
 Synthesis"
 author: "J Ahrens, H Wierstorf"
 title: "Properties of Large-scale Sound Field Synthesis"
-proceedings: "57th Audio Engineering Society International Conference"
+proceedings: "57th International Conference of the Audio Engineering Society"
 short: "AES"
 papernumber: "6-1"
 year: "2015"
@@ -20,8 +20,10 @@ published: true
 @inproceedings{Ahrens2015,
   	title = {Properties of Large-scale Sound Field Synthesis},
     author = {Ahrens, Jens and Wierstorf, Hagen},
-    booktitle = {57th Audio Engineering Society International Conference},
+    booktitle = {57th International Conference of the Audio Engineering Society},
+    address = {Hollywood, CA},
     pages = {Paper 6-1},
+    month = {March},
     year = {2015},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=17609}
 }

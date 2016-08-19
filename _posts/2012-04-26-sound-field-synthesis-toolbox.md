@@ -4,7 +4,7 @@ comments: false
 description: "Wierstorf and Spors - Sound Field Synthesis Toolbox"
 author: "H Wierstorf, S Spors"
 title: "Sound Field Synthesis Toolbox"
-proceedings: "132nd Audio Engineering Society Convention"
+proceedings: "132nd Convention of the Audio Engineering Society"
 short: "AES"
 ebriefnumber: "50"
 year: "2012"
@@ -20,8 +20,10 @@ published: true
 @inproceedings{Wierstorf2012b,
   	title = {Sound Field Synthesis Toolbox},
     author = {Wierstorf, Hagen and Spors, Sascha},
-    booktitle = {132nd Audio Engineering Society Convention},
+    booktitle = {132nd Convention of the Audio Engineering Society},
+    address = {Budapest, Hungary},
     pages = {eBrief 50},
+    month = {April},
     year = {2012},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=16605}
 }

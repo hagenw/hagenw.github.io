@@ -5,7 +5,6 @@ description: "Wierstorf - Perceptual assessment of spatial sound: the
 Two!Ears project"
 author: "H Wierstorf"
 title: "Perceptual assessment of spatial sound: the Two!Ears project"
-journal: "The Journal of the Acoustical Society of America"
 short: "AES"
 year: "2016"
 month: "June"

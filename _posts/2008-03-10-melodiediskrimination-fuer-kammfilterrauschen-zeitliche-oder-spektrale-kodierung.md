@@ -6,9 +6,10 @@ Kammfilterrauschen: zeitliche oder spektrale Kodierung?"
 author: "H Wierstorf, S Uppenkamp"
 title: "Melodiediskrimination für Kammfilterrauschen: zeitliche oder spektrale
 Kodierung?"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2008"
+editors: "U Jekosch and R Hoffmann"
 short: "DAGA"
-pages: ""
+pages: "173-174"
 year: "2008"
 paper: "wierstorf_and_uppenkamp-2008-melodiediskrimination_fuer_kammfilterrauschen.pdf"
 presentation: "wierstorf_and_uppenkamp-2008-melodiediskrimination_fuer_kammfilterrauschen-presentation.pdf"
@@ -21,8 +22,11 @@ published: true
 @inproceedings{Wierstorf2008a,
     title = {{Melodiediskrimination für Kammfilterrauschen: zeitliche oder spektrale Kodierung?}},
     author = {Wierstorf, Hagen and Uppenkamp, Stefan},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
-    pages = {},
+    booktitle = {Fortschritte der Akustik - DAGA 2008},
+    publisher = {DEGA e.V.},
+    address = {Dresden, Germany},
+    pages = {173--174},
+    month = {March},
     year = {2008}
 }
 ```

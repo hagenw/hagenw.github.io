@@ -6,7 +6,7 @@ order Ambisonics at different positions within the listening area"
 author: "H Wierstorf, A Raake, S Spors"
 title: "Localization in Wave Field Synthesis and higher order Ambisonics at
 different positions within the listening area"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2013"
 short: "DAGA"
 pages: "2376-2379"
 year: "2013"
@@ -22,7 +22,10 @@ published: true
 @inproceedings{Wierstorf2013b,
     title = {Localization in Wave Field Synthesis and higher order Ambisonics at different positions within the listening area},
     author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
+    booktitle = {Fortschritte der Akustik - DAGA 2013},
+    publisher = {DEGA e.V.},
+    address = {Merano, Italy},
+    month = {March},
     pages = {2376--2379},
     year = {2013}
 }

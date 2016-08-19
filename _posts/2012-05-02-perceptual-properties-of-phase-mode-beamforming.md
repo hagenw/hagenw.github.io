@@ -23,7 +23,9 @@ published: true
   	title = {Evaluation of perceptual properties of phase-mode beamforming in the context of data-based binaural synthesis},
     author = {Spors, Sascha and Wierstorf, Hagen},
     booktitle = {5th International Symposium on Communications Control and Signal Processing (ISCCSP)},
+    address = {Roma, Italy},
     pages = {1--4},
+    month = {May},
     year = {2012},
     doi = {10.1109/ISCCSP.2012.6217843},
     url = {http://dx.doi.org/10.1109/ISCCSP.2012.6217843}

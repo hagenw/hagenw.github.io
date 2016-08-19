@@ -5,7 +5,7 @@ description: "Hold et al. - Tonmischung für Stereophonie und Wellenfeldsynthese
 im Vergleich"
 author: "H Wierstorf, C Ende, A Raake"
 title: "Tonmischung für Stereophonie und Wellenfeldsynthese im Vergleich"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2016"
 short: "DAGA"
 pages: "1023-1026"
 year: "2016"
@@ -19,9 +19,10 @@ published: true
 @inproceedings{Hold2016a,
     title = {{Tonmischung für Stereophonie und Wellenfeldsynthese im Vergleich}},
     author = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
-    pages = {1023--1026},
+    booktitle = {Fortschritte der Akustik - DAGA 2015},
+    publisher = {DEGA e.V.},
     address = {Aachen, Germany},
+    pages = {1023--1026},
     month = {March},
     year = {2016}
 }

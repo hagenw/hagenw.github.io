@@ -7,7 +7,7 @@ author: "F Winter, H Wierstorf, A Podlubne, T Forgue, J Manhès, M Herrb,
 S Spors, A Raake, P Danès"
 title: "Database of Binaural Room Impulse Responses of an
 Apartment-Like Environment"
-proceedings: "140th Audio Engineering Society Convention"
+proceedings: "140th Convention of the Audio Engineering Society"
 short: "AES"
 ebriefnumber: "252"
 year: "2016"
@@ -22,9 +22,9 @@ published: true
 @inproceedings{Winter2016a,
   	title = {Database of Binaural Room Impulse Responses of an Apartment-Like Environment},
     author = {Winter, Fiete and Wierstorf, Hagen and Podlubne, Ariel and Forgue, Thomas and Manhès, Jérome and Herrb, Matthieu and Spors, Sascha and Raake, Alexander and Danès, Patrick},
-    booktitle = {140th Audio Engineering Society Convention},
-    pages = {eBrief 252},
+    booktitle = {140th Convention of the Audio Engineering Society},
     address = {Paris, France},
+    pages = {eBrief 252},
     month = {June},
     year = {2016},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=18156}

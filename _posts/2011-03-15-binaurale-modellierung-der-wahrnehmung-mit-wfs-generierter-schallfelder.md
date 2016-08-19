@@ -6,11 +6,10 @@ Wellenfeldsynthese generierter Schallfelder"
 author: "H Wierstorf, S Spors, A Raake"
 title: "Binaurale Modellierung der Wahrnehmung mit Wellenfeldsynthese
 generierter Schallfelder"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2011"
 short: "DAGA"
-pages: ""
+pages: "943-944"
 year: "2011"
-url: 
 paper: "wierstorf_et_al-2011-binaurale_modellierung_der_wahrnehmung_mit_wfs_generierter_schallfelder.pdf"
 presentation: "wierstorf_et_al-2011-binaurale_modellierung_der_wahrnehmung_mit_wfs_generierter_schallfelder-presentation.pdf"
 published: true
@@ -22,8 +21,11 @@ published: true
 @inproceedings{Wierstorf2011a,
     title = {{Binaurale Modellierung der Wahrnehmung mit Wellenfeldsynthese generierter Schallfelder}},
     author = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
-    pages = {},
+    booktitle = {Fortschritte der Akustik - DAGA 2011},
+    publisher = {DEGA e.V.},
+    address = {Düsseldorf, Germany},
+    pages = {943--944},
+    month = {March},
     year = {2011}
 }
 ```

@@ -6,7 +6,7 @@ Synthesis in the Context of Popular Music"
 author: "C Hold, H Wierstorf, A Raake"
 title: "The Difference Between Stereophony and Wave Field Synthesis in the
 Context of Popular Music"
-proceedings: "140th Audio Engineering Society Convention"
+proceedings: "140th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "9533"
 year: "2016"
@@ -21,9 +21,9 @@ published: true
 @inproceedings{Hold2016b,
   	title = {The Difference between Stereophony and Wave Field Synthesis in the Context of Popular Music},
     author = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
-    booktitle = {140th Audio Engineering Society Convention},
-    pages = {Paper 9533},
+    booktitle = {140th Convention of the Audio Engineering Society},
     address = {Paris, France},
+    pages = {preprint 9533},
     month = {June},
     year = {2016},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=18232}

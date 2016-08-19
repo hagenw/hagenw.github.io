@@ -5,7 +5,7 @@ description: "Wierstorf et al. - Reducing Artifacts of Focused Sources in Wave F
 Synthesis"
 author: "H Wierstorf, M Geier, S Spors"
 title: "Reducing Artifacts of Focused Sources in Wave Field Synthesis"
-proceedings: "129th Audio Engineering Society Convention"
+proceedings: "129th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8245"
 year: "2010"
@@ -21,8 +21,10 @@ published: true
 @inproceedings{Wierstorf2010b,
   	title = {Reducing Artifacts of Focused Sources in Wave Field Synthesis},
     author = {Wierstorf, Hagen and Geier, Matthias and Spors, Sascha},
-    booktitle = {129th Audio Engineering Society Convention},
-    pages = {Paper 8245},
+    booktitle = {129th Convention of the Audio Engineering Society},
+    address = {San Francisco, CA},
+    pages = {preprint 8245},
+    month = {November},
     year = {2010},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=15667}
 }

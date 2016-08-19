@@ -4,7 +4,7 @@ comments: false
 description: "Raake et al. - Audioqualitätsbeurteilung: Ein Fall für TWO!EARS"
 author: "A Raake, H Wierstorf, J Blauert"
 title: "Audioqualitätsbeurteilung: Ein Fall für TWO!EARS"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2015"
 short: "DAGA"
 papernumber: "Vorkolloquium: Audiocodierung und Qualitätsbeurteilung"
 year: "2015"
@@ -17,7 +17,9 @@ published: true
 @misc{Raake2015,
     title = {{Audioqualitätsbeurteilung: Ein Fall für TWO!EARS}},
     author = {Raake, Alexander and Wierstorf, Hagen and Blauert, Jens},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
+    booktitle = {Fortschritte der Akustik - DAGA 2015},
+    address = {Nuremberg, Germany},
+    month = {March},
     year = {2015}
 }
 ```

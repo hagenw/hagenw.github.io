@@ -5,11 +5,10 @@ description: "Spors and Wierstorf - Perceptual Properties of Data-based Wave
 Field Synthesis"
 author: "S. Spors, H Wierstorf"
 title: "Perceptual Properties of Data-based Wave Field Synthesis"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2014"
 short: "DAGA"
 pages: "594-595"
 year: "2014"
-url: 
 paper: "spors_and_wierstorf-2014-perceptual_properties_of_data-based_wave_field_synthesis.pdf"
 presentation: "spors_and_wierstorf-2014-perceptual_properties_of_data-based_wave_field_synthesis-presentation.pdf"
 published: true
@@ -21,8 +20,11 @@ published: true
 @inproceedings{Spors2014a,
     title = {Perceptual Properties of Data-based Wave Field Synthesis},
     author = {Spors, Sascha and Wierstorf, Hagen},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
+    booktitle = {Fortschritte der Akustik - DAGA 2014},
+    publisher = {DEGA e.V.},
+    address = {Oldenburg, Germany},
     pages = {594--595},
+    month = {March},
     year = {2014}
 }
 ```

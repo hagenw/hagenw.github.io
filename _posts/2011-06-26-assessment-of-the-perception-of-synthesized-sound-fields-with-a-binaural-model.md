@@ -21,10 +21,11 @@ published: true
 @inproceedings{Wierstorf2011c,
     author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     title = {Assessment of the Perception of Synthesized Sound Fields with a Binaural Model},
-    year = {2011},
     address = {Aalborg, Denmark},
     booktitle = {Forum Acusticum},
-    pages = {2027--2132}
+    pages = {2027--2132},
+    month = {June},
+    year = {2011}
 }
 ```
 

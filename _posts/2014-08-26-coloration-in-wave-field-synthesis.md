@@ -4,7 +4,7 @@ comments: false
 description: "Wierstorf et al. - Coloration in Wave Field Synthesis"
 author: "H Wierstorf, C Hohnerlein, S Spors, A Raake"
 title: "Coloration in Wave Field Synthesis"
-proceedings: "55th Audio Engineering Society International Conference"
+proceedings: "55th International Conference of the Audio Engineering Society"
 short: "AES"
 papernumber: "5-3"
 year: "2014"
@@ -20,8 +20,10 @@ published: true
 @inproceedings{Wierstorf2014b,
   	title = {Coloration in Wave Field Synthesis},
     author = {Wierstorf, Hagen and Hohnerlein, Christoph and Spors, Sascha and Raake, Alexander},
-    booktitle = {55th Audio Engineering Society International Conference},
+    booktitle = {55th International Conference of the Audio Engineering Society},
+    address = {Helsinki, Finland},
     pages = {Paper 5-3},
+    month = {August},
     year = {2014},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=17381}
 }

@@ -20,9 +20,10 @@ published: true
 @inproceedings{Wierstorf2014d,
     author = {Wierstorf, Hagen and Spors, Sascha},
     title = {Predicting localization accuracy for stereophonic downmixes in Wave Field Synthesis},
-    year = {2014},
+    booktitle = {Forum Acusticum},
     address = {Krakow, Poland},
-    booktitle = {Forum Acusticum}
+    month = {September},
+    year = {2014}
 }
 ```
 

@@ -23,7 +23,7 @@ published: true
 @article{Wierstorf2013a,
 	title = {Perception of Focused Sources in Wave Field Synthesis},
     author = {Wierstorf, Hagen and Raake, Alexander and Geier, Matthias and Spors, Sascha},
-    journal = {J. Audio Eng. Soc},
+    journal = {Journal of the  Audio Engineering Society},
     volume = {61},
     number = {1/2},
     pages = {5--16},

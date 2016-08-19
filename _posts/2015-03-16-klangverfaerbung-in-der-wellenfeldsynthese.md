@@ -5,7 +5,7 @@ description: "Wierstorf et al. - Klangverfärbung in der Wellenfeldsynthese -
 Experimente und Modellierung"
 author: "H Wierstorf, C Ende, A Raake"
 title: "Klangverfärbung in der Wellenfeldsynthese - Experimente und Modellierung"
-proceedings: "German Annual Conference on Acoustics (DAGA)"
+proceedings: "Fortschritte der Akustik - DAGA 2015"
 short: "DAGA"
 pages: "490-493"
 year: "2015"
@@ -20,9 +20,10 @@ published: true
 @inproceedings{Wierstorf2015,
     title = {{Klangverfärbung in der Wellenfeldsynthese - Experimente und Modellierung}},
     author = {Wierstorf, Hagen and Ende, Christoph and Raake, Alexander},
-    booktitle = {German Annual Conference on Acoustics (DAGA)},
-    pages = {490--493},
+    booktitle = {Fortschritte der Akustik - DAGA 2015},
+    publisher = {DEGA e.V.},
     address = {Nuremberg, Germany},
+    pages = {490--493},
     month = {March},
     year = {2015}
 }

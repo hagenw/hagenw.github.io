@@ -5,7 +5,7 @@ description: "Geier et al. - Perceptual Evaluation of Focused Sources in Wave
 Field Synthesis"
 author: "M Geier, H Wierstorf, J Ahrens, I Wechsung, A Raake, S Spors"
 title: "Perceptual Evaluation of Focused Sources in Wave Field Synthesis"
-proceedings: "128th Audio Engineering Society Convention"
+proceedings: "128th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8069"
 year: "2010"
@@ -20,8 +20,10 @@ published: true
 @inproceedings{Geier2010,
   	title = {Perceptual Evaluation of Focused Sources in Wave Field Synthesis},
     author = {Geier, Matthias and Wierstorf, Hagen and Ahrens, Jens and Wechsung, Ina and Raake, Alexander and Spors, Sascha},
-    booktitle = {128th Audio Engineering Society Convention},
-    pages = {Paper 8096},
+    booktitle = {128th Convention of the Audio Engineering Society},
+    address = {London, UK},
+    pages = {preprint 8096},
+    month = {May},
     year = {2010},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=15366}
 }
