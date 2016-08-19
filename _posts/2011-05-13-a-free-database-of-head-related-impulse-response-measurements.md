@@ -42,7 +42,7 @@ also datasets are available which have been compensated for the use with
 specific headphone models.
 
 
-### Supplementary material
+### Supplementary Material
 
 The original data base has been converted into the [SOFA
 format](http://sofaconventions.org) in the meantime and published under
