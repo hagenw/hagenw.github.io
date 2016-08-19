@@ -20,9 +20,9 @@ layout: default
         {% if page.ebriefnumber %}eBrief {{ page.ebriefnumber }}{% endif %}
         {% if page.year %}({{ page.year }}).{% endif %}
         {% if page.url %} <a href="{{ page.url }}">[ link ]</a> {% endif %}
-        {% if page.paper %} <a href="{{ site.url }}/{{ page.paper }}">[ paper ]</a> {% endif %}
-        {% if page.presentation %} <a href="{{ site.url }}/{{ page.presentation }}">[ presentation ]</a> {% endif %}
-        {% if page.poster %} <a href="{{ site.url }}/{{ page.poster }}">[ poster ]</a> {% endif %}
+        {% if page.paper %} <a href="{{ site.url }}/pubs/{{ page.paper }}">[ paper ]</a> {% endif %}
+        {% if page.presentation %} <a href="{{ site.url }}/pubs/{{ page.presentation }}">[ presentation ]</a> {% endif %}
+        {% if page.poster %} <a href="{{ site.url }}/pubs/{{ page.poster }}">[ poster ]</a> {% endif %}
     </p>
     {{ content }}
     {% include post-share.html %}
