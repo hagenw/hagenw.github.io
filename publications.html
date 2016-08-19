@@ -1,0 +1,35 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+<div>
+  <p>Click on a publication for the full reference, Bibtex entry and
+  suplementary material.</p>
+</div>
+
+<section class="post-list">
+
+  <div class="container">
+    {% for post in site.posts %}
+      {% unless post.next %}
+        <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
+        {% endif %}
+      {% endunless %}
+      <article class="post-item">
+          <span class="post-meta date-label">
+                {% if post.journalshort %}<span class="red">{{ post.journalshort }}</span>{% endif %}
+                {% if post.short == "Thesis" %}<span class="blue">{{ post.short }}</span>{% elsif post.short %}{{ post.short }}{% endif %}
+          </span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+      </article>
+    {% endfor %}
+  </div>
+
+</section>
