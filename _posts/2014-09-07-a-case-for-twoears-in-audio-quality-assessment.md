@@ -17,8 +17,8 @@ published: true
 
 ```latex
 @inproceedings{Raake2014,
+    title = {% raw %}{{A case for TWO!EARS in audio quality assessment}}{% endraw %},
     author = {Raake, Alexander and Wierstorf, Hagen and Blauert, Jens},
-    title = {{A case for TWO!EARS in audio quality assessment}},
     booktitle = {Forum Acusticum},
     address = {Krakow, Poland},
     month = {September},

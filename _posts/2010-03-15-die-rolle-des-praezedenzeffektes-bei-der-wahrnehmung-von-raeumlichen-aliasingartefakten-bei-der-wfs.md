@@ -20,7 +20,7 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2010a,
-    title = {{Die Rolle des Präzedenzeffektes bei der Wahrnehmung von Räumlichen Aliasingartefakten bei der Wellenfeldsynthese}},
+    title = {% raw %}{{Die Rolle des Präzedenzeffektes bei der Wahrnehmung von Räumlichen Aliasingartefakten bei der Wellenfeldsynthese}}{% endraw %},
     author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {Fortschritte der Akustik - DAGA 2010},
     publisher = {DEGA e.V.},

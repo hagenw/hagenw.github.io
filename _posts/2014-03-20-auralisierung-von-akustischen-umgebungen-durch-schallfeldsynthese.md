@@ -17,7 +17,7 @@ published: true
 
 ```latex
 @inproceedings{Spors2014b,
-    title = {{Auralisierung von akustischen Umgebungen durch Schallfeldsynthese}},
+    title = {% raw %}{{Auralisierung von akustischen Umgebungen durch Schallfeldsynthese}}{% endraw %},
     author = {Spors, Sascha and Wierstorf, Hagen},
     booktitle = {DGA-Jahrestagung},
     month = {March},

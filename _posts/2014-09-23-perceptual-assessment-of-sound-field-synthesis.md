@@ -17,8 +17,8 @@ published: true
 
 ```latex
 @phdthesis{Wierstorf2014e,
-    author = {Wierstorf, Hagen},
     title = {Perceptual Assessment of Sound Field Synthesis},
+    author = {Wierstorf, Hagen},
     school = {Technische Univsersität Berlin},
     address = {Berlin, Germany},
     year = {2014},

@@ -17,8 +17,8 @@ published: true
 
 ```latex
 @misc{Wierstorf2016b,
+   title = {% raw %}{{Perceptual assessment of spatial sound: the Two!Ears project}}{% endraw %},
    author = {Wierstorf, Hagen},
-   title = {Perceptual assessment of spatial sound: the Two!Ears project},
    organization = {Audio Engineering Society},
    address = {Paris, France},
    month = {June},

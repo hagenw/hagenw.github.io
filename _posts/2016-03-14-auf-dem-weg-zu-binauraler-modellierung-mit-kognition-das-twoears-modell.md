@@ -17,7 +17,7 @@ published: true
 
 ```latex
 @misc{Wierstorf2016a,
-    title = {{Auf dem Weg zu binauraler Modellierung mit Kognition: das Two!Ears Modell}},
+    title = {% raw %}{{Auf dem Weg zu binauraler Modellierung mit Kognition: das Two!Ears Modell}}{% endraw %},
     author = {Wierstorf, Hagen and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2016},
     publisher = {DEGA e.V.},

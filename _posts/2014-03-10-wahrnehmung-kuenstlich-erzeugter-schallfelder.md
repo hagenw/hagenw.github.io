@@ -17,7 +17,7 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2014a,
-    title = {{Wahrnehmung künstlich erzeugter Schallfelder}},
+    title = {% raw %}{{Wahrnehmung künstlich erzeugter Schallfelder}}{% endraw %},
     author = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2014},
     publisher = {DEGA e.V.},

@@ -20,9 +20,9 @@ published: true
 
 ```latex
 @inbook{Frank2014,
+    title= {Spatial Audio Rendering},
     author = {Frank, Matthias and Zotter, Franz and Wierstorf, Hagen and Spors, Sascha},
     editors = {Möller, Sebastian and Raake, Alexander},
-    title= {Spatial Audio Rendering},
     booktitle = {Quality of Experience: Advanced Concepts, Applications and Methods},
     publisher = {Springer},
     address = {Berlin Heidelberg},

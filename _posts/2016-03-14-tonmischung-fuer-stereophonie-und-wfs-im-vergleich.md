@@ -17,7 +17,7 @@ published: true
 
 ```latex
 @inproceedings{Hold2016a,
-    title = {{Tonmischung für Stereophonie und Wellenfeldsynthese im Vergleich}},
+    title = {% raw %}{{Tonmischung für Stereophonie und Wellenfeldsynthese im Vergleich}}{% endraw %},
     author = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2015},
     publisher = {DEGA e.V.},

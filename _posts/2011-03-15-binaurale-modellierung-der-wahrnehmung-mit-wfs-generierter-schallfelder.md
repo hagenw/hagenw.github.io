@@ -19,7 +19,7 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2011a,
-    title = {{Binaurale Modellierung der Wahrnehmung mit Wellenfeldsynthese generierter Schallfelder}},
+    title = {% raw %}{{Binaurale Modellierung der Wahrnehmung mit Wellenfeldsynthese generierter Schallfelder}}{% endraw %},
     author = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2011},
     publisher = {DEGA e.V.},

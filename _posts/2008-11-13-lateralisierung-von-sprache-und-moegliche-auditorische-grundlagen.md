@@ -19,7 +19,7 @@ published: true
 ```latex
 @thesis{Wierstorf2008c,
     author = {Wierstorf, Hagen},
-    title = {{Lateralisierung von Sprache und mögliche auditorische Grundlagen. Eine fMRT-Studie.}},
+    title = {% raw %}{{Lateralisierung von Sprache und mögliche auditorische Grundlagen. Eine fMRT-Studie.}}{% endraw %},
     school = {Carl von Ossietzky Universität Oldenburg},
     address = {Oldenburg, Germany},
     month = {November},

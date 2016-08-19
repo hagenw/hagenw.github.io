@@ -19,7 +19,7 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2012a,
-    title = {{Psychoakustik der Wellenfeldsynthese: Vor- und Nachteile von binauraler Simulation}},
+    title = {% raw %}{{Psychoakustik der Wellenfeldsynthese: Vor- und Nachteile von binauraler Simulation}}{% endraw %},
     author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {Fortschritte der Akustik - DAGA 2012},
     publisher = {DEGA e.V.},

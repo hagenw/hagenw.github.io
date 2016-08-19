@@ -18,7 +18,7 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2015,
-    title = {{Klangverfärbung in der Wellenfeldsynthese - Experimente und Modellierung}},
+    title = {% raw %}{{Klangverfärbung in der Wellenfeldsynthese - Experimente und Modellierung}}{% endraw %},
     author = {Wierstorf, Hagen and Ende, Christoph and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2015},
     publisher = {DEGA e.V.},

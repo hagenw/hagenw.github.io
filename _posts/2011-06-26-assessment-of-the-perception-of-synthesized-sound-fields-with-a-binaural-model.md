@@ -19,8 +19,8 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2011c,
-    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     title = {Assessment of the Perception of Synthesized Sound Fields with a Binaural Model},
+    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     address = {Aalborg, Denmark},
     booktitle = {Forum Acusticum},
     pages = {2027--2132},

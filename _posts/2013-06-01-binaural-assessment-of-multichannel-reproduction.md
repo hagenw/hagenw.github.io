@@ -24,10 +24,10 @@ published: true
 
 ```latex
 @inbook{Wierstorf2013c,
-    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
-    editor = {Blauert, Jens},
     title= {Binaural Assessment of Multichannel Reproduction},
+    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {The Technology of Binaural Listening},
+    editor = {Blauert, Jens},
     publisher = {Springer},
     address = {Berlin Heidelberg},
     pages = {255--278},
