@@ -11,8 +11,8 @@ short: "DAGA"
 pages: "2376-2379"
 year: "2013"
 url: 
-paper: "wierstorf_et_al-2013-localization_in_wave_field_synthesis_and_higher_order_ambisonics_at_different_positions.pdf"
-presentation: "wierstorf_et_al-2013-localization_in_wave_field_synthesis_and_higher_order_ambisonics_at_different_positions-presentation.pdf"
+paper: "wierstorf_et_al-2013-localization_in_wave_field_synthesis_and_higher_order_ambisonics.pdf"
+presentation: "wierstorf_et_al-2013-localization_in_wave_field_synthesis_and_higher_order_ambisonics-presentation.pdf"
 published: true
 ---
 
