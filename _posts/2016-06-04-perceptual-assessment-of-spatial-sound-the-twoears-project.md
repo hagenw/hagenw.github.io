@@ -9,7 +9,7 @@ short: "AES"
 year: "2016"
 month: "June"
 address: "Paris, France"
-presentation: ""
+presentation: "wierstorf-2016-perceptual_assessment_of_spatial_sound_the_twoears_project-presentation.pdf"
 published: true
 ---
 
