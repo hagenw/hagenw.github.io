@@ -10,7 +10,7 @@ proceedings: "132nd Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8669"
 year: "2012"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=16307"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=16307"
 paper: "spors_et_al-2012-comparison_of_modal_versus_delay_and_sum_beamforming.pdf"
 published: true
 ---

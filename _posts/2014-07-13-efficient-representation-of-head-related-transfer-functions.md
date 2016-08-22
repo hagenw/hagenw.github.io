@@ -11,7 +11,6 @@ Vibration (ICSV)"
 short: "ICSV"
 year: "2014"
 paper: "majdak_et_al-2014-efficient_representation_of_head-related_transfer_functions.pdf"
-presentation: 
 published: true
 ---
 

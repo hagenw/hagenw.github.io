@@ -12,10 +12,8 @@ pages: "2711-2721"
 volume: "133"
 number: "5"
 year: "2013"
-url: "http://scitation.aip.org/content/asa/journal/jasa/133/5/10.1121/1.4795780"
+link: "http://scitation.aip.org/content/asa/journal/jasa/133/5/10.1121/1.4795780"
 doi: "10.1121/1.4795780"
-paper: 
-presentation: 
 published: true
 ---
 

@@ -9,7 +9,7 @@ proceedings: "129th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8245"
 year: "2010"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=15667"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=15667"
 paper: "wierstorf_et_al-2010-reducing_artifacts_of_focused_sources_in_wave_field_synthesis.pdf"
 presentation: "wierstorf_et_al-2010-reducing_artifacts_of_focused_sources_in_wave_field_synthesis-presentation.pdf"
 published: true

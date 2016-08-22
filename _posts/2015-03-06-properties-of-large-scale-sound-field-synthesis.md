@@ -9,7 +9,7 @@ proceedings: "57th International Conference of the Audio Engineering Society"
 short: "AES"
 papernumber: "6-1"
 year: "2015"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=17609"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=17609"
 paper: "ahrens_and_wierstorf-2014-properties_of_large-scale_sound_field_synthesis.pdf"
 published: true
 ---

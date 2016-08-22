@@ -10,7 +10,7 @@ bookchapter: "The Neurophysiological Bases of Auditory Perception"
 journalshort: "Book"
 pages: "381-391"
 year: "2010"
-url: "http://dx.doi.org/10.1007/978-1-4419-5686-6_36"
+link: "http://dx.doi.org/10.1007/978-1-4419-5686-6_36"
 published: true
 ---
 

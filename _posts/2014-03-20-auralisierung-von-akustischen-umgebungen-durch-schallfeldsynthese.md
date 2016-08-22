@@ -7,9 +7,6 @@ title: "Auralisierung von akustischen Umgebungen durch Schallfeldsynthese"
 proceedings: "DGA-Jahrestagung"
 short: "DGA"
 year: "2014"
-url: 
-paper: 
-presentation: 
 published: true
 ---
 

@@ -11,7 +11,7 @@ proceedings: "140th Convention of the Audio Engineering Society"
 short: "AES"
 ebriefnumber: "252"
 year: "2016"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=18156"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=18156"
 paper: "winter_et_al-2016-database_of_binaural_room_impulse_responses_of_an_apartment-like_enviroenment.pdf"
 published: true
 ---

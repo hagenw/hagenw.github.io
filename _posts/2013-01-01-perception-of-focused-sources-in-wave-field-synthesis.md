@@ -11,7 +11,7 @@ pages: "5-16"
 volume: "61"
 number: "1/2"
 year: "2013"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=16663"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=16663"
 paper: "wierstorf_et_al-2013-perception_of_focused_sources_in_wave_field_synthesis.pdf"
 presentation: 
 published: true

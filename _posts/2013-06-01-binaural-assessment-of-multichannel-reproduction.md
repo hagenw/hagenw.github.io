@@ -12,11 +12,9 @@ publisher: "Springer Berlin Heidelberg"
 address: "Berlin, Heidelberg"
 pages: "255-278"
 isbn: "978-3-642-37762-4"
-url: "http://dx.doi.org/10.1007/978-3-642-37762-4_10"
+link: "http://dx.doi.org/10.1007/978-3-642-37762-4_10"
 doi: "10.1007/978-3-642-37762-4_10"
 year: "2013"
-paper: 
-presentation: 
 published: true
 ---
 

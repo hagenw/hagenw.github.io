@@ -12,10 +12,8 @@ pages: "1920-1938"
 volume: "101"
 number: "9"
 year: "2013"
-url: "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6552964"
+link: "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6552964"
 doi: "10.1109/JPROC.2013.2264784"
-paper: 
-presentation: 
 published: true
 ---
 

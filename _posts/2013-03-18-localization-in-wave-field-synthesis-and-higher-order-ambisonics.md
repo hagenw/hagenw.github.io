@@ -10,7 +10,6 @@ proceedings: "Fortschritte der Akustik - DAGA 2013"
 short: "DAGA"
 pages: "2376-2379"
 year: "2013"
-url: 
 paper: "wierstorf_et_al-2013-localization_in_wave_field_synthesis_and_higher_order_ambisonics.pdf"
 presentation: "wierstorf_et_al-2013-localization_in_wave_field_synthesis_and_higher_order_ambisonics-presentation.pdf"
 published: true

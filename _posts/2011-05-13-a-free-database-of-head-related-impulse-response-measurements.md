@@ -10,7 +10,7 @@ proceedings: "130th Convention of the Audio Engineering Society"
 short: "AES"
 ebriefnumber: "6"
 year: "2011"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=16564"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=16564"
 paper: "wierstorf_et_al-2011-a_free_database_of_head-related_impulse_response_measurements.pdf"
 poster: "wierstorf_et_al-2011-a_free_database_of_head-related_impulse_response_measurements-poster.pdf"
 published: true

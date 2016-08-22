@@ -10,7 +10,7 @@ proceedings: "133rd Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8743"
 year: "2012"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=16485"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=16485"
 paper: "wierstorf_et_al-2012-localization_of_a_point_source_for_wave_field_synthesis.pdf"
 presentation: "wierstorf_et_al-2012-localization_of_a_point_source_for_wave_field_synthesis-presentation.pdf"
 published: true

@@ -10,7 +10,7 @@ proceedings: "130th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8392"
 year: "2011"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=15859"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=15859"
 paper: "spors_et_al-2011-interpolation_and_range_extrapolation_of_head_related_transfer_functions.pdf"
 published: true
 ---

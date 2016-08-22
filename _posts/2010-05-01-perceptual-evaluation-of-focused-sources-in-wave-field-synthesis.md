@@ -9,7 +9,7 @@ proceedings: "128th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "8069"
 year: "2010"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=15366"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=15366"
 paper: "geier_et_al-2010-perceptual_evaluation_of_focused_sources_in_wave_field_synthesis.pdf"
 published: true
 ---

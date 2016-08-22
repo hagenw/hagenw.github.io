@@ -10,7 +10,7 @@ proceedings: "127th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "7914"
 year: "2009"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=15109"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=15109"
 paper: "spors_et_al-2009-physical_and_perceptual_properties_of_focused_sources_in_wfs.pdf"
 published: true
 ---

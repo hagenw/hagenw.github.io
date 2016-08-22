@@ -10,7 +10,7 @@ proceedings: "55th International Conference of the Audio Engineering Society"
 short: "AES"
 papernumber: "6-3"
 year: "2014"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=17361"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=17361"
 paper: "takanen_et_al-2014-evaluation_of_sound_field_synthesis_techniques_with_a_binaural_auditory_model.pdf"
 published: true
 ---

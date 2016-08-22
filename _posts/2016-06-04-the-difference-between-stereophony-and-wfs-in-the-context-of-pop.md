@@ -10,7 +10,7 @@ proceedings: "140th Convention of the Audio Engineering Society"
 short: "AES"
 papernumber: "9533"
 year: "2016"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=18232"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=18232"
 paper: "hold_et_al-2016-the_difference_between_stereophony_and_wfs_in_the_context_of_pop.pdf"
 published: true
 ---

@@ -10,7 +10,7 @@ proceedings: "40th International Conference of the Audio Engineering Society"
 short: "AES"
 papernumber: "6-1"
 year: "2010"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=15563"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=15563"
 paper: "ahrens_et_al-2010-comparison_of_higher_order_ambisonics_and_wfs_in_time_domain.pdf"
 published: true
 ---

@@ -7,7 +7,6 @@ title: "A case for TWO!EARS in audio quality assessment"
 proceedings: "FORUM ACUSTICUM"
 short: "FA"
 year: "2014"
-url: 
 paper: "raake_et_al-2014-a_case_for_twoears_in_audio_quality_assessment.pdf"
 presentation: 
 published: true

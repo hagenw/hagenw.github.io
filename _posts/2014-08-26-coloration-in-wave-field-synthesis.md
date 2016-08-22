@@ -8,7 +8,7 @@ proceedings: "55th International Conference of the Audio Engineering Society"
 short: "AES"
 papernumber: "5-3"
 year: "2014"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=17381"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=17381"
 paper: "wierstorf_et_al-2014-coloration_in_wave_field_synthesis.pdf"
 presentation: "wierstorf_et_al-2014-coloration_in_wave_field_synthesis-presentation.pdf"
 published: true

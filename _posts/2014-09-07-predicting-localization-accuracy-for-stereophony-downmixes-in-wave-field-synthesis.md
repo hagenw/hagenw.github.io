@@ -8,7 +8,6 @@ Field Synthesis"
 proceedings: "FORUM ACUSTICUM"
 short: "FA"
 year: "2014"
-url: 
 paper: "wierstorf_and_spors-2014-predicting_localization_accuracy_for_stereophonic_downmixes_in_wave_field_synthesis.pdf"
 presentation: "wierstorf_and_spors-2014-predicting_localization_accuracy_for_stereophonic_downmixes_in_wave_field_synthesis-presentation.pdf"
 published: true

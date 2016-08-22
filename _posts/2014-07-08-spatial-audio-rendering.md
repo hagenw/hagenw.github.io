@@ -10,9 +10,7 @@ journalshort: "Book"
 editors: "S. Möller, A. Raake"
 pages: "247-260"
 year: "2014"
-url: "http://link.springer.com/chapter/10.1007%2F978-3-319-02681-7_17"
-paper: 
-presentation: 
+link: "http://link.springer.com/chapter/10.1007%2F978-3-319-02681-7_17"
 published: true
 ---
 

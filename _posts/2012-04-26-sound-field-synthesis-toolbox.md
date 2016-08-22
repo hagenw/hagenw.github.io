@@ -8,7 +8,7 @@ proceedings: "132nd Convention of the Audio Engineering Society"
 short: "AES"
 ebriefnumber: "50"
 year: "2012"
-url: "http://www.aes.org/e-lib/browse.cfm?elib=16605"
+link: "http://www.aes.org/e-lib/browse.cfm?elib=16605"
 paper: "wierstorf_and_spors-2012-sound_field_synthesis_toolbox.pdf"
 poster: "wierstorf_and_spors-2012-sound_field_synthesis_toolbox-poster.pdf"
 published: true
