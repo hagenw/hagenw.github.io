@@ -17,7 +17,8 @@ published: false
 
 ```latex
 @misc{Raake2016a,
-    title = {Assessment of audio quality and experience using binaural-hearing models},
+    title = {Assessment of audio quality and experience using binaural-hearing
+             models},
     author = {Raake, Alexander and Wierstorf, Hagen},
     booktitle = {22nd International Congress on Acoustics (ICA)},
     address = {Buenos Aires, Argentina},

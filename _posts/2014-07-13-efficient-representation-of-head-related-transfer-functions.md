@@ -19,9 +19,12 @@ published: true
 
 ```latex
 @inproceedings{Majdak2014,
-  	title = {Efficient representation of head-related transfer functions using spatially oriented format for acoustics},
-    author = {Majdak, Piotr and Ziegelwanger, Harald and Wierstorf, Hagen and Noisternig, Markus},
-    booktitle = {Proceedings of the 21st International Congress on Sound and Vibration (ICSV)},
+  	title = {Efficient representation of head-related transfer functions using
+             spatially oriented format for acoustics},
+    author = {Majdak, Piotr and Ziegelwanger, Harald and Wierstorf, Hagen and
+              Noisternig, Markus},
+    booktitle = {Proceedings of the 21st International Congress on Sound and
+                 Vibration (ICSV)},
     address = {Beijing, China},
     month = {July},
     year = {2014},

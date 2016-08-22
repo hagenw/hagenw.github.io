@@ -15,7 +15,7 @@ published: true
 
 ```latex
 @misc{Raake2015,
-    title = {% raw %}{{Audioqualitätsbeurteilung: Ein Fall für TWO!EARS}}{% endraw %},
+    title = {% raw %}{{Audioqualit\"{a}tsbeurteilung: Ein Fall für TWO!EARS}}{% endraw %},
     author = {Raake, Alexander and Wierstorf, Hagen and Blauert, Jens},
     booktitle = {Fortschritte der Akustik - DAGA 2015},
     address = {Nuremberg, Germany},

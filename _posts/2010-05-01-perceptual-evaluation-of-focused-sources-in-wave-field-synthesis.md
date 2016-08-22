@@ -19,7 +19,8 @@ published: true
 ```latex
 @inproceedings{Geier2010,
   	title = {Perceptual Evaluation of Focused Sources in Wave Field Synthesis},
-    author = {Geier, Matthias and Wierstorf, Hagen and Ahrens, Jens and Wechsung, Ina and Raake, Alexander and Spors, Sascha},
+    author = {Geier, Matthias and Wierstorf, Hagen and Ahrens, Jens and
+              Wechsung, Ina and Raake, Alexander and Spors, Sascha},
     booktitle = {128th Convention of the Audio Engineering Society},
     address = {London, UK},
     pages = {preprint 8096},

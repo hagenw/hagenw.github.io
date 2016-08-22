@@ -18,7 +18,8 @@ published: true
 
 ```latex
 @inbook{Uppenkamp2010,
-    title = {Representation of Intelligible and Distorted Speech in Human Auditory Cortex},
+    title = {Representation of Intelligible and Distorted Speech in Human
+             Auditory Cortex},
     author = {Uppenkamp, Stefan and Wierstorf, Hagen},
     editor = {Lopez-Poveda, A. Enrique and Palmer, R. Alan and Meddis, Ray},
     booktitle = {The Neurophysiological Bases of Auditory Perception},

@@ -20,8 +20,11 @@ published: true
 
 ```latex
 @inproceedings{Winter2016a,
-  	title = {Database of Binaural Room Impulse Responses of an Apartment-Like Environment},
-    author = {Winter, Fiete and Wierstorf, Hagen and Podlubne, Ariel and Forgue, Thomas and Manhès, Jérome and Herrb, Matthieu and Spors, Sascha and Raake, Alexander and Danès, Patrick},
+  	title = {Database of Binaural Room Impulse Responses of an Apartment-Like
+             Environment},
+    author = {Winter, Fiete and Wierstorf, Hagen and Podlubne, Ariel and
+              Forgue, Thomas and Manh\`{e}s, J\'{e}rome and Herrb, Matthieu and
+              Spors, Sascha and Raake, Alexander and Dan\`{e}s, Patrick},
     booktitle = {140th Convention of the Audio Engineering Society},
     address = {Paris, France},
     pages = {eBrief 252},

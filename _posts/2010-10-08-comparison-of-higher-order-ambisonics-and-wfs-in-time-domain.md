@@ -19,7 +19,8 @@ published: true
 
 ```latex
 @inproceedings{Ahrens2010,
-  	title = {Comparison of Higher Order Ambisonics and Wave Field Synthesis with Respect to Spatial Discretization Artifacts in Time Domain},
+  	title = {Comparison of Higher Order Ambisonics and Wave Field Synthesis with
+             Respect to Spatial Discretization Artifacts in Time Domain},
     author = {Ahrens, Jens and Wierstorf, Hagen and Spors, Sascha},
     booktitle = {40th International Conference of the Audio Engineering Society},
     address = {Tokyo, Japan},

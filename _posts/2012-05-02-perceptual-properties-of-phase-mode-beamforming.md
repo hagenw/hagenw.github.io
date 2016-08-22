@@ -20,9 +20,11 @@ published: true
 
 ```latex
 @inproceedings{Spors2012c,
-  	title = {Evaluation of perceptual properties of phase-mode beamforming in the context of data-based binaural synthesis},
+  	title = {Evaluation of perceptual properties of phase-mode beamforming in
+             the context of data-based binaural synthesis},
     author = {Spors, Sascha and Wierstorf, Hagen},
-    booktitle = {5th International Symposium on Communications Control and Signal Processing (ISCCSP)},
+    booktitle = {5th International Symposium on Communications Control and
+                 Signal Processing (ISCCSP)},
     address = {Roma, Italy},
     pages = {1--4},
     month = {May},

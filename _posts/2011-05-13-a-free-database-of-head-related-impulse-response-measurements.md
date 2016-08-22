@@ -20,7 +20,8 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2011b,
-  	title = {A Free Database of Head Related Impulse Response Measurements in the Horizontal Plane with Multiple Distances},
+  	title = {A Free Database of Head Related Impulse Response Measurements in
+             the Horizontal Plane with Multiple Distances},
     author = {Wierstorf, Hagen Geier, Matthias and and Spors, Sascha},
     booktitle = {130th Convention of the Audio Engineering Society},
     address = {London, UK},

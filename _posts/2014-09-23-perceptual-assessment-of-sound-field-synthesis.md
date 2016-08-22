@@ -19,7 +19,7 @@ published: true
 @phdthesis{Wierstorf2014e,
     title = {Perceptual Assessment of Sound Field Synthesis},
     author = {Wierstorf, Hagen},
-    school = {Technische Univsersität Berlin},
+    school = {Technische Univsersit\"{a}t Berlin},
     address = {Berlin, Germany},
     year = {2014},
     doi = {10.14279/depositonce-4310}

@@ -18,7 +18,8 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2008b,
-    title = {% raw %}{{Untersuchung zur Repräsentation von verständlicher und unverständlicher Sprache im Kortex mit funktioneller MRT}}{% endraw %},
+    title = {% raw %}{{Untersuchung zur Repr\"{a}sentation von verst\"{a}ndlicher und
+              unverst\"{a}ndlicher Sprache im Kortex mit funktioneller MRT}}{% endraw %},
     author = {Wierstorf, Hagen and Uppenkamp, Stefan},
     booktitle = {German Annual Conference of Medical Physics (DGMP)},
     year = {2008}
