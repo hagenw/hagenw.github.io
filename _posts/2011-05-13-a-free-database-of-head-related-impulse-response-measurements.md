@@ -22,7 +22,7 @@ published: true
 @inproceedings{Wierstorf2011b,
   	title = {A Free Database of Head Related Impulse Response Measurements in
              the Horizontal Plane with Multiple Distances},
-    author = {Wierstorf, Hagen Geier, Matthias and and Spors, Sascha},
+    author = {Wierstorf, Hagen Geier, Matthias and Spors, Sascha},
     booktitle = {130th Convention of the Audio Engineering Society},
     address = {London, UK},
     pages = {eBrief 6},
