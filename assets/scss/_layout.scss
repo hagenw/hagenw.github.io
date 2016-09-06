@@ -274,16 +274,14 @@ hr {
 }
 .project h3 { 
   position: absolute; 
-  bottom: -7px; 
+  bottom: -42px; 
   //left: 20px; 
   width: 100%; 
 }
 .project h3 span {
-  color: white;
+  color: #0086B3;
   font: bold 20px/38px Helvetica, Sans-Serif; 
   letter-spacing: 0px;
-  background: rgb(0, 0, 0); /* fallback color */
-  background: rgba(0, 0, 0, 0.65);
   padding: 5px;
 }
 ul.project {
