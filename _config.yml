@@ -2,7 +2,7 @@
 # SEO settings
 title: "Hagen"
 title2: "Wierstorf" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
+description: "Researcher in all things spatial audio"
 keywords: "Hagen Wierstorf, researcher, publications, spatial audio, reproducible research, psychoacoustics"
 url: http://hagenw.github.io # site url
 # baseurl: "/hagenw" # apply repo name if use it under gh-pages branch
