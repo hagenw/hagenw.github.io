@@ -10,7 +10,7 @@ proceedings: "22nd International Congress on Acoustics (ICA)"
 short: "ICA"
 year: "2016"
 paper: "raake_and_wierstorf-2016-assessment_of_audio_quality_and_experience_using_binaural-hearing_models.pdf"
-published: false
+published: true
 ---
 
 ### Bibtex
