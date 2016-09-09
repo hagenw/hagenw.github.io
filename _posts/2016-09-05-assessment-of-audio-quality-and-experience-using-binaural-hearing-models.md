@@ -8,6 +8,7 @@ title: "Assessment of audio quality and experience using binaural-hearing
 models"
 proceedings: "22nd International Congress on Acoustics (ICA)"
 short: "ICA"
+papernumber: "346"
 year: "2016"
 paper: "raake_and_wierstorf-2016-assessment_of_audio_quality_and_experience_using_binaural-hearing_models.pdf"
 published: false
@@ -22,6 +23,7 @@ published: false
     author = {Raake, Alexander and Wierstorf, Hagen},
     booktitle = {22nd International Congress on Acoustics (ICA)},
     address = {Buenos Aires, Argentina},
+    pages = {Paper 346},
     month = {September},
     year = {2016}
 }
