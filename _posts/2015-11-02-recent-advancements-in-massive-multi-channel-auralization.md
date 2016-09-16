@@ -7,6 +7,7 @@ author: "J Ahrens, H Wierstorf"
 title: "Recent advancements in massive multi-channel auralization"
 proceedings: "170th Meeting of the Acoustical Society of America"
 short: "ASA"
+address: "Jacksonville, FL"
 year: "2015"
 published: true
 ---
