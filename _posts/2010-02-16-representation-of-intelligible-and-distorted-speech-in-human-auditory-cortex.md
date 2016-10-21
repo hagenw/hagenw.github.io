@@ -7,7 +7,7 @@ author: "S Uppenkamp, H Wierstorf"
 title: "Representation of Intelligible and Distorted Speech in Human Auditory
 Cortex"
 bookchapter: "The Neurophysiological Bases of Auditory Perception"
-journalshort: "Book"
+journalshort: "InBook"
 pages: "381-391"
 year: "2010"
 link: "http://dx.doi.org/10.1007/978-1-4419-5686-6_36"
