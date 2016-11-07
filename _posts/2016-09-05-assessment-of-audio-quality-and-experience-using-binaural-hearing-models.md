@@ -3,7 +3,7 @@ layout: post
 comments: false
 description: "Raake and Wierstorf - Assessment of audio quality and experience
 using binaural-hearing models"
-author: "H Wierstorf, A Raake"
+author: "A Raake, H Wierstorf"
 title: "Assessment of audio quality and experience using binaural-hearing
 models"
 proceedings: "22nd International Congress on Acoustics (ICA)"
