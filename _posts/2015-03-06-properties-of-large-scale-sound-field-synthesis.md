@@ -10,7 +10,7 @@ short: "AES"
 papernumber: "6-1"
 year: "2015"
 link: "http://www.aes.org/e-lib/browse.cfm?elib=17609"
-paper: "ahrens_and_wierstorf-2014-properties_of_large-scale_sound_field_synthesis.pdf"
+paper: "ahrens_and_wierstorf-2015-properties_of_large-scale_sound_field_synthesis.pdf"
 published: true
 ---
 
