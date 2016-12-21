@@ -3,7 +3,7 @@ layout: post
 comments: false
 description: "Hold et al. - Tonmischung für Stereophonie und Wellenfeldsynthese
 im Vergleich"
-author: "H Wierstorf, C Ende, A Raake"
+author: "C Hold, H Wierstorf, A Raake"
 title: "Tonmischung für Stereophonie und Wellenfeldsynthese im Vergleich"
 proceedings: "Fortschritte der Akustik - DAGA 2016"
 short: "DAGA"
