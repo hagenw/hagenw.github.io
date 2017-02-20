@@ -28,7 +28,7 @@ published: true
               Ziegelwanger, Harald and Noisternig, Markus},
     booktitle = {134th Convention of the Audio Engineering Society},
     address = {Roma, Italy},
-    month 0 {May},
+    month = {May},
     year = {2013},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=16781}
 }
