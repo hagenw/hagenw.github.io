@@ -26,7 +26,7 @@ published: true
     booktitle = {133rd Audio Engineering Society Convention},
     address = {San Francisco, CA},
     pages = {preprint 8743},
-    month 0 {October},
+    month = {October},
     year = {2012},
     url = {http://www.aes.org/e-lib/browse.cfm?elib=16485}
 }
