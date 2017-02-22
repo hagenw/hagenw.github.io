@@ -47,19 +47,19 @@ paired-comparison test listeners rated their preferred listening experience.
 ### Supplementary Material
 
 The music mixes are provided for download at
-[10.14279/depositonce-5173](http://dx.doi.org/10.14279/depositonce-5173). Note,
+[10.14279/depositonce-5173](https://doi.org/10.14279/depositonce-5173). Note,
 that they are stored in a channel based way, which means that for the WFS mix,
 you will need a similar WFS system that can distribute the mixed 56-channels on
 a circle.
 
 If you are interested in the object based mixing for WFS, you might have a look
 at the `ssr_wfs_scenes.zip` file which comes with
-[10.14279/depositonce-5173](http://dx.doi.org/10.14279/depositonce-5173) which
+[10.14279/depositonce-5173](https://doi.org/10.14279/depositonce-5173) which
 was used with the [SoundScape Renderer](http://spatialaudio.net/ssr/) to create
 the mix. The signal feeds you need for the single objects in the mix are
-available at[10.5281/zenodo.55718](http://dx.doi.org/10.5281/zenodo.55718).
+available at[10.5281/zenodo.55718](https://doi.org/10.5281/zenodo.55718).
 
 The mixes where adjusted to achieve the same loudness level at the center of the
 listening area. This was done by performing measurements with a dummy head for
 different levels of the mixes. The dummy head recordings are available at
-[10.5281/zenodo.55719](http://dx.doi.org/10.5281/zenodo.55719).
+[10.5281/zenodo.55719](https://doi.org/10.5281/zenodo.55719).

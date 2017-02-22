@@ -7,7 +7,7 @@ title: "Perceptual Assessment of Sound Field Synthesis"
 book: "PhD dissertation"
 short: "Thesis"
 year: "2014"
-link: "http://dx.doi.org/10.14279/depositonce-4310"
+link: "https://doi.org/10.14279/depositonce-4310"
 paper: "wierstorf-2014-perceptual_assessment_of_sound_field_synthesis.pdf"
 presentation: 
 published: true

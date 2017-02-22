@@ -11,7 +11,7 @@ Processing (ISCCSP)"
 short: "ISCCSP"
 pages: "1-4"
 year: "2012"
-link: "http://dx.doi.org/10.1109/ISCCSP.2012.6217843"
+link: "https://doi.org/10.1109/ISCCSP.2012.6217843"
 paper: "spors_and_wierstorf-2012-perceptual_properties_of_phase_mode_beamforming.pdf"
 published: true
 ---
@@ -30,7 +30,7 @@ published: true
     month = {May},
     year = {2012},
     doi = {10.1109/ISCCSP.2012.6217843},
-    url = {http://dx.doi.org/10.1109/ISCCSP.2012.6217843}
+    url = {https://doi.org/10.1109/ISCCSP.2012.6217843}
 }
 ```
 

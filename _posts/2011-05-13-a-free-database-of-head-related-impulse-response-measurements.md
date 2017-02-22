@@ -48,7 +48,7 @@ specific headphone models.
 
 The original data base has been converted into the [SOFA
 format](http://sofaconventions.org) in the meantime and published under
-[10.5281/zenodo.55418](http://dx.doi.org/10.5281/zenodo.55418).
+[10.5281/zenodo.55418](https://doi.org/10.5281/zenodo.55418).
 
 Vera Erbes created a [short version of the 3 m HRTF with low frequency
 corrections](https://github.com/spatialaudio/lf-corrected-kemar-hrtfs). This

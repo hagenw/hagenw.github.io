@@ -31,7 +31,7 @@ published: true
    number = {5},
    pages = {2711--2721},
    url = {http://scitation.aip.org/content/asa/journal/jasa/133/5/10.1121/1.4795780},
-   doi = {http://dx.doi.org/10.1121/1.4795780}
+   doi = {https://doi.org/10.1121/1.4795780}
 }
 ```
 

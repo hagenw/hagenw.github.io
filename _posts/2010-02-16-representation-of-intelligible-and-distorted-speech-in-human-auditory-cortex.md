@@ -10,7 +10,7 @@ bookchapter: "The Neurophysiological Bases of Auditory Perception"
 journalshort: "InBook"
 pages: "381-391"
 year: "2010"
-link: "http://dx.doi.org/10.1007/978-1-4419-5686-6_36"
+link: "https://doi.org/10.1007/978-1-4419-5686-6_36"
 published: true
 ---
 
@@ -29,7 +29,7 @@ published: true
     year = {2010},
     isbn = {978-1-4419-5686-6},
     doi = {10.1007/978-1-4419-5686-6_36},
-    url = {http://dx.doi.org/10.1007/978-1-4419-5686-6_36}
+    url = {https://doi.org/10.1007/978-1-4419-5686-6_36}
 }
 ```
 

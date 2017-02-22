@@ -51,7 +51,7 @@ to study the process of auditory scene analysis for humans and machines.
 
 The data is stored in the [SOFA format](http://sofaconventions.org) and a
 corrected version can be freely download at
-[10.5281/zenodo.49357](http://dx.doi.org/10.5281/zenodo.49357).
+[10.5281/zenodo.49357](https://doi.org/10.5281/zenodo.49357).
 
 The easiest way to access the BRIRs in the SOFA format is most probably by using
 Matlab together with the [SOFA API for
