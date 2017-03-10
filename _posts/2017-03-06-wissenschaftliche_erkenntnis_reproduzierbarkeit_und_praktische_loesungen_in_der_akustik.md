@@ -9,6 +9,7 @@ in der Akustik"
 proceedings: "Fortschritte der Akustik - DAGA 2017"
 short: "DAGA"
 year: "2017"
+link: "https://github.com/spatialaudio/DAGA2017_wissenschaftliche_erkenntnis"
 presentation: "wierstorf_et_al-2017-wissenschaftliche_erkenntnis_reproduzierbarkeit_und_praktische_loesungen_in_der_akustik-presentation.pdf"
 published: true
 ---

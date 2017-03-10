@@ -8,6 +8,7 @@ title: "Towards Open Science in Acoustics: Foundations and Best Practices"
 proceedings: "Fortschritte der Akustik - DAGA 2017"
 short: "DAGA"
 year: "2017"
+link: "https://github.com/spatialaudio/DAGA2017_towards_open_science_in_acoustics"
 published: true
 ---
 
