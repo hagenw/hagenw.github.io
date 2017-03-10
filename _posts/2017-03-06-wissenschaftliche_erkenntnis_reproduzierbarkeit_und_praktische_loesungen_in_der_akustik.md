@@ -16,7 +16,7 @@ published: true
 ### Bibtex
 
 ```latex
-@misc{Wierstorf2016a,
+@misc{Wierstorf2017b,
     title = {% raw %}{{Wissenschaftliche Erkenntnis, Reproduzierbarkeit und
     praktische Lösungen in der Akustik}}{% endraw %},
     author = {Wierstorf, Hagen and Spors, Sascha and Geier, Matthias},
