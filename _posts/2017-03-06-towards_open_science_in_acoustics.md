@@ -9,8 +9,7 @@ proceedings: "Fortschritte der Akustik - DAGA 2017"
 short: "DAGA"
 year: "2017"
 paper: "spors_et_al-2017-towards_open_science_in_acoustics.pdf"
-presentation:
-"spors_et_al-2017-towards_open_science_in_acoustics-presentation.pdf"
+presentation: "spors_et_al-2017-towards_open_science_in_acoustics-presentation.pdf"
 link: "https://github.com/spatialaudio/DAGA2017_towards_open_science_in_acoustics"
 published: true
 ---
