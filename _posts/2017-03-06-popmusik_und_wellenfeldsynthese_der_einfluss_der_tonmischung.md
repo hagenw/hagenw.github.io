@@ -8,6 +8,7 @@ title: "Popmusik und Wellenfeldsynthese: Der Einfluss der Tonmischung"
 proceedings: "Fortschritte der Akustik - DAGA 2017"
 short: "DAGA"
 year: "2017"
+paper: "hold_et_al-2017-popmusik_und_wellenfeld_synthese_einfluss_der_tonmischung.pdf"
 published: true
 ---
 
