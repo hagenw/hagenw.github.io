@@ -9,6 +9,7 @@ Impact of Music Production Techniques"
 proceedings: "Fortschritte der Akustik - DAGA 2017"
 short: "DAGA"
 year: "2017"
+paper: "skowronek_et_al-2017-towards_the_development_of_preference_models.pdf"
 published: true
 ---
 
