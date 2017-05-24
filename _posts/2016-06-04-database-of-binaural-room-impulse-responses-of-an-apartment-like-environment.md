@@ -20,7 +20,7 @@ published: true
 
 ```latex
 @inproceedings{Winter2016a,
-  	title = {Database of Binaural Room Impulse Responses of an Apartment-Like
+    title = {Database of Binaural Room Impulse Responses of an Apartment-Like
              Environment},
     author = {Winter, Fiete and Wierstorf, Hagen and Podlubne, Ariel and
               Forgue, Thomas and Manh\`{e}s, J\'{e}rome and Herrb, Matthieu and

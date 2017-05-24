@@ -19,7 +19,7 @@ published: true
 
 ```latex
 @inproceedings{Hold2016b,
-  	title = {The Difference between Stereophony and Wave Field Synthesis in the
+    title = {The Difference between Stereophony and Wave Field Synthesis in the
              Context of Popular Music},
     author = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
     booktitle = {140th Convention of the Audio Engineering Society},

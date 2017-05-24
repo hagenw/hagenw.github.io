@@ -18,7 +18,7 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2012b,
-  	title = {Sound Field Synthesis Toolbox},
+    title = {Sound Field Synthesis Toolbox},
     author = {Wierstorf, Hagen and Spors, Sascha},
     booktitle = {132nd Convention of the Audio Engineering Society},
     address = {Budapest, Hungary},

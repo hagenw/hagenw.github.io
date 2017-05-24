@@ -20,7 +20,7 @@ published: true
 
 ```latex
 @inproceedings{Majdak2013,
-  	title = {Spatially Oriented Format for Acoustics: A Data Exchange Format
+    title = {Spatially Oriented Format for Acoustics: A Data Exchange Format
              Representing Head-Related Transfer Functions},
     author = {Majdak, Piotr and Iwaya, Yukio and Carpentier, Thibaut and
               Nicol, Rozenn and Parmentier, Matthieu and Roginska, Agnieszka and

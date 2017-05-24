@@ -19,7 +19,7 @@ published: true
 
 ```latex
 @inproceedings{Spors2009,
-  	title = {Physical and Perceptual Properties of Focused Virtual Sources in
+    title = {Physical and Perceptual Properties of Focused Virtual Sources in
              Wave Field Synthesis},
     author = {Spors, Sascha and Wierstorf, Hagen and Geier, Matthias and
               Ahrens, Jens},

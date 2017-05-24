@@ -18,7 +18,7 @@ published: true
 
 ```latex
 @inproceedings{Majdak2014,
-  	title = {Efficient representation of head-related transfer functions using
+    title = {Efficient representation of head-related transfer functions using
              spatially oriented format for acoustics},
     author = {Majdak, Piotr and Ziegelwanger, Harald and Wierstorf, Hagen and
               Noisternig, Markus},

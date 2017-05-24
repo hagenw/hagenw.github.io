@@ -17,7 +17,7 @@ published: true
 
 ```latex
 @inproceedings{Winter2017b,
-  	title = {The Two!Ears database},
+    title = {The Two!Ears database},
     author = {Winter, Fiete and Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {142nd Convention of the Audio Engineering Society},
     address = {Berlin, Germany},

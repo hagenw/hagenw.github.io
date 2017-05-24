@@ -18,7 +18,7 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2014b,
-  	title = {Coloration in Wave Field Synthesis},
+    title = {Coloration in Wave Field Synthesis},
     author = {Wierstorf, Hagen and Hohnerlein, Christoph and Spors, Sascha and
               Raake, Alexander},
     booktitle = {55th International Conference of the Audio Engineering Society},

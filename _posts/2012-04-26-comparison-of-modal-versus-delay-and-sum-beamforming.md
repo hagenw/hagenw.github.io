@@ -19,7 +19,7 @@ published: true
 
 ```latex
 @inproceedings{Spors2012b,
-  	title = {Comparison of modal versus delay-and-sum beamforming in the context
+    title = {Comparison of modal versus delay-and-sum beamforming in the context
              of data-based binaural synthesis},
     author = {Spors, Sascha and Wierstorf, Hagen and Geier, Matthias},
     booktitle = {132nd Convention of the Audio Engineering Society},

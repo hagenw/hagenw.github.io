@@ -18,9 +18,9 @@ published: true
 ```latex
 @misc{Skowronek2017,
     title = {% raw %}{{Towards the Development of Preference Models accounting
-    for the Impact of Music Production Techniques}}{% endraw %},
+             for the Impact of Music Production Techniques}}{% endraw %},
     author = {Skowronek, Janto and Nagel, Lukas and Hold, Christoph and
-    Wierstorf, Hagen and Raake, Alexander},
+              Wierstorf, Hagen and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2017},
     publisher = {DEGA e.V.},
     address = {Kiel, Germany},

@@ -19,7 +19,7 @@ published: true
 
 ```latex
 @inproceedings{Hold2016c,
-  	title = {Positioning of Musical Foreground Parts in Surrounding Sound
+    title = {Positioning of Musical Foreground Parts in Surrounding Sound
              Stages},
     author = {Hold, Christoph and Nagel, Lukas and Wierstorf, Hagen and
               Raake, Alexander},

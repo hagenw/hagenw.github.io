@@ -19,7 +19,7 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2010b,
-  	title = {Reducing Artifacts of Focused Sources in Wave Field Synthesis},
+    title = {Reducing Artifacts of Focused Sources in Wave Field Synthesis},
     author = {Wierstorf, Hagen and Geier, Matthias and Spors, Sascha},
     booktitle = {129th Convention of the Audio Engineering Society},
     address = {San Francisco, CA},

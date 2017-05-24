@@ -19,7 +19,7 @@ published: true
 
 ```latex
 @inproceedings{Takanen2014,
-  	title = {Evaluation of Sound Field Synthesis Techniques with a Binaural
+    title = {Evaluation of Sound Field Synthesis Techniques with a Binaural
              Auditory Model},
     author = {Takanen, Marko and Wierstorf, Hagen and Pulkki, Ville and
               Raake, Alexander},
