@@ -19,6 +19,7 @@ published: true
     title = {Recent advancements in massive multi-channel auralization},
     author = {Ahrens, Jens and Wierstorf, Hagen},
     booktitle = {170th Meeting of the Acoustical Society of America},
+    publisher = {Acoustical Society of America},
     address = {Jacksonville, FL},
     month = {November},
     year = {2015}
