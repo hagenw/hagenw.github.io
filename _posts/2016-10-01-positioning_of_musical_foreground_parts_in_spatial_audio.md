@@ -46,3 +46,14 @@ guiding attributes of the mix are still uncertain. This study investigates the
 impact of different spatial distributions of sound objects on listener
 preference, with a special emphasis on the distinction of high attention
 foreground parts of the presented music track.
+
+### Supplementary Material
+
+The music mixes employed in this study are available from
+http://doi.org/10.5281/zenodo.61000. Note, that the final mix provides the
+driving signals for a circular loudspeaker array with 56 channels. If you would
+like to reproduce it on another system you can generate the driving signals
+yourself by using the [SoundScape Renderer](http://spatialaudio.net/ssr/), in
+which you have to load the [scene files](http://doi.org/10.5281/zenodo.61110)
+and feed in the [signals of the single
+objects](http://doi.org/10.5281/zenodo.55718) for the song "lighthouse".
