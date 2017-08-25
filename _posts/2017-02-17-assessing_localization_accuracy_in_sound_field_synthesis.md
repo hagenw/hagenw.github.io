@@ -48,3 +48,11 @@ area even for a low number of loudspeakers. For Near-Field Compensated Higher
 Order Ambisonics the achievable localization accuracy of the listener depends
 highly on the Ambisonics order and shows large localization deviations for low
 orders, where splitting of the perceived sound source was sometimes reported.
+
+### Supplementary Material
+
+To ease the reproducibility of this study, the [stimuli for the listening
+tests](https://doi.org/10.5281/zenodo.55427), the [average and single results
+from the listening tests](https://doi.org/10.5281/zenodo.55439), and the [code
+to reproduce the figures](https://doi.org/10.5281/zenodo.166755) are all
+available for download.
