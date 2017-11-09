@@ -25,7 +25,7 @@ published: true
                  Ahrens, Jens},
     booktitle = {127th Convention of the Audio Engineering Society},
     address   = {New York, NY},
-    pages     = {preprint 7914},
+    pages     = {Paper 7914},
     month     = {October},
     year      = {2009},
     url       = {http://www.aes.org/e-lib/browse.cfm?elib=15109}

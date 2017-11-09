@@ -24,7 +24,7 @@ published: true
     author    = {Spors, Sascha and Wierstorf, Hagen and Ahrens, Jens},
     booktitle = {130th Convention of the Audio Engineering Society},
     address   = {London, UK},
-    pages     = {preprint 8392},
+    pages     = {Paper 8392},
     month     = {May},
     year      = {2011},
     url       = {http://www.aes.org/e-lib/browse.cfm?elib=15859}

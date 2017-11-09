@@ -24,7 +24,7 @@ published: true
                  Wechsung, Ina and Raake, Alexander and Spors, Sascha},
     booktitle = {128th Convention of the Audio Engineering Society},
     address   = {London, UK},
-    pages     = {preprint 8096},
+    pages     = {Paper 8096},
     month     = {May},
     year      = {2010},
     url       = {http://www.aes.org/e-lib/browse.cfm?elib=15366}

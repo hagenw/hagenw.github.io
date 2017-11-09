@@ -24,7 +24,7 @@ published: true
                  and Hummersone, Chirs},
     booktitle = {143rd Convention of the Audio Engineering Society},
     address   = {New York, NY},
-    pages     = {preprint 9880},
+    pages     = {Paper 9880},
     month     = {October},
     year      = {2017},
     url       = {http://www.aes.org/e-lib/browse.cfm?elib=19277}

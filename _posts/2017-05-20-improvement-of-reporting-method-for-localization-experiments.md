@@ -22,7 +22,7 @@ published: true
     author    = {winter, Fiete and Wierstorf, Hagen and Spors, Sascha},
     booktitle = {142nd Convention of the Audio Engineering Society},
     address   = {Berlin, Germany},
-    pages     = {preprint 9755},
+    pages     = {Paper 9755},
     month     = {May},
     year      = {2017},
     url       = {http://www.aes.org/e-lib/browse.cfm?elib=18631}

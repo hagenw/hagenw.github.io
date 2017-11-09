@@ -25,7 +25,7 @@ published: true
     author    = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {133rd Audio Engineering Society Convention},
     address   = {San Francisco, CA},
-    pages     = {preprint 8743},
+    pages     = {Paper 8743},
     month     = {October},
     year      = {2012},
     url       = {http://www.aes.org/e-lib/browse.cfm?elib=16485}

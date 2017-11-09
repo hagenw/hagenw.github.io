@@ -24,7 +24,7 @@ published: true
     author    = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
     booktitle = {140th Convention of the Audio Engineering Society},
     address   = {Paris, France},
-    pages     = {preprint 9533},
+    pages     = {Paper 9533},
     month     = {June},
     year      = {2016},
     url       = {http://www.aes.org/e-lib/browse.cfm?elib=18232}
