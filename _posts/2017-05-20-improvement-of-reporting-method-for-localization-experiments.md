@@ -19,7 +19,7 @@ published: true
 @inproceedings{Winter2017a,
     title     = {Improvement of the Reporting Method for Closed-Loop Human
                  Localization Experiments},
-    author    = {winter, Fiete and Wierstorf, Hagen and Spors, Sascha},
+    author    = {Winter, Fiete and Wierstorf, Hagen and Spors, Sascha},
     booktitle = {142nd Convention of the Audio Engineering Society},
     address   = {Berlin, Germany},
     pages     = {Paper 9755},
