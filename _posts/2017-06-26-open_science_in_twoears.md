@@ -15,9 +15,9 @@ published: true
 ### Bibtex
 
 ```latex
-@misc{Wierstorf2017c,
+@inproceedings{Wierstorf2017c,
     title = {% raw %}{{Open Science in the Two!Ears Project -- Experiences and
-    Best Practices}}{% endraw %},
+              Best Practices}}{% endraw %},
     author = {Wierstorf, Hagen and Winter, Fiete and Spors, Sascha},
     booktitle = {173rd Meeting of the Acoustical Society of America and
                  the 8th Forum Acusticum},
