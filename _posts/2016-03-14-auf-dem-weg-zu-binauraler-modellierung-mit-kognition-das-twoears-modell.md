@@ -17,14 +17,14 @@ published: true
 
 ```latex
 @misc{Wierstorf2016a,
-    title = {% raw %}{{Auf dem Weg zu binauraler Modellierung mit Kognition: das
-              Two!Ears Modell}}{% endraw %},
-    author = {Wierstorf, Hagen and Raake, Alexander},
+    title     = {% raw %}{{Auf dem Weg zu binauraler Modellierung mit Kognition: das
+                  Two!Ears Modell}}{% endraw %},
+    author    = {Wierstorf, Hagen and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2016},
     publisher = {DEGA e.V.},
-    address = {Aachen, Germany},
-    month = {March},
-    year = {2016}
+    address   = {Aachen, Germany},
+    month     = {March},
+    year      = {2016}
 }
 ```
 

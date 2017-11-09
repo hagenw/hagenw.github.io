@@ -17,12 +17,13 @@ published: true
 
 ```latex
 @phdthesis{Wierstorf2014e,
-    title = {Perceptual Assessment of Sound Field Synthesis},
-    author = {Wierstorf, Hagen},
-    school = {Technische Univsersit\"{a}t Berlin},
+    title   = {Perceptual Assessment of Sound Field Synthesis},
+    author  = {Wierstorf, Hagen},
+    school  = {Technische Univsersit\"{a}t Berlin},
     address = {Berlin, Germany},
-    year = {2014},
-    doi = {10.14279/depositonce-4310}
+    year    = {2014},
+    doi     = {10.14279/depositonce-4310},
+    url     = [https://doi.org/10.14279/depositonce-4310}
 }
 ```
 

@@ -16,15 +16,15 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2017c,
-    title = {% raw %}{{Open Science in the Two!Ears Project -- Experiences and
-              Best Practices}}{% endraw %},
-    author = {Wierstorf, Hagen and Winter, Fiete and Spors, Sascha},
-    booktitle = {173rd Meeting of the Acoustical Society of America and
-                 the 8th Forum Acusticum},
+    title     = {% raw %}{{Open Science in the Two!Ears Project -- Experiences and
+                  Best Practices}}{% endraw %},
+    author    = {Wierstorf, Hagen and Winter, Fiete and Spors, Sascha},
+    booktitle = {173rd Meeting of the Acoustical Society of America
+                 and the 8th Forum Acusticum},
     publisher = {Acoustical Society of America},
-    address = {Boston, MA},
-    month = {June},
-    year = {2017}
+    address   = {Boston, MA},
+    month     = {June},
+    year      = {2017}
 }
 ```
 

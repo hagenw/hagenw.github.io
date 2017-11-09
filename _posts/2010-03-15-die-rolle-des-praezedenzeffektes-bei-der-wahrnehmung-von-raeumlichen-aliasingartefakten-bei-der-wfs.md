@@ -20,15 +20,15 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2010a,
-    title = {% raw %}{{Die Rolle des Pr\"{a}zedenzeffektes bei der Wahrnehmung von
-              r\"{a}umlichen Aliasingartefakten bei der Wellenfeldsynthese}}{% endraw %},
-    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
+    title     = {% raw %}{{Die Rolle des Pr\"{a}zedenzeffektes bei der Wahrnehmung von
+                  r\"{a}umlichen Aliasingartefakten bei der Wellenfeldsynthese}}{% endraw %},
+    author    = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {Fortschritte der Akustik - DAGA 2010},
     publisher = {DEGA e.V.},
-    address = {Berlin, Germany},
-    pages = {639--640},
-    month = {March},
-    year = {2010}
+    address   = {Berlin, Germany},
+    pages     = {639--640},
+    month     = {March},
+    year      = {2010}
 }
 ```
 

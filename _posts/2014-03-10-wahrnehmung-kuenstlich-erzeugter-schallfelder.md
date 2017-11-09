@@ -17,14 +17,14 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2014a,
-    title = {% raw %}{{Wahrnehmung k\"{u}nstlich erzeugter Schallfelder}}{% endraw %},
-    author = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
+    title     = {% raw %}{{Wahrnehmung k\"{u}nstlich erzeugter Schallfelder}}{% endraw %},
+    author    = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2014},
     publisher = {DEGA e.V.},
-    address = {Oldenburg, Germany},
-    pages = {347--348},
-    month = {March},
-    year = {2014}
+    address   = {Oldenburg, Germany},
+    pages     = {347--348},
+    month     = {March},
+    year      = {2014}
 }
 ```
 

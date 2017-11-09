@@ -20,17 +20,17 @@ published: true
 
 ```latex
 @inproceedings{Majdak2013,
-    title = {Spatially Oriented Format for Acoustics: A Data Exchange Format
-             Representing Head-Related Transfer Functions},
-    author = {Majdak, Piotr and Iwaya, Yukio and Carpentier, Thibaut and
-              Nicol, Rozenn and Parmentier, Matthieu and Roginska, Agnieszka and
-              Suzuki, Yoiti and Watanabe, Kankji and Wierstorf, Hagen and
-              Ziegelwanger, Harald and Noisternig, Markus},
+    title     = {Spatially Oriented Format for Acoustics: A Data Exchange
+                 Format Representing Head-Related Transfer Functions},
+    author    = {Majdak, Piotr and Iwaya, Yukio and Carpentier, Thibaut and
+                 Nicol, Rozenn and Parmentier, Matthieu and Roginska, Agnieszka
+                 and Suzuki, Yoiti and Watanabe, Kankji and Wierstorf, Hagen
+                 and Ziegelwanger, Harald and Noisternig, Markus},
     booktitle = {134th Convention of the Audio Engineering Society},
-    address = {Roma, Italy},
-    month = {May},
-    year = {2013},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=16781}
+    address   = {Roma, Italy},
+    month     = {May},
+    year      = {2013},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=16781}
 }
 ```
 

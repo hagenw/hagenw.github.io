@@ -18,14 +18,14 @@ published: true
 
 ```latex
 @misc{Wierstorf2017b,
-    title = {% raw %}{{Wissenschaftliche Erkenntnis, Reproduzierbarkeit und
-    praktische Lösungen in der Akustik}}{% endraw %},
-    author = {Wierstorf, Hagen and Spors, Sascha and Geier, Matthias},
+    title     = {% raw %}{{Wissenschaftliche Erkenntnis, Reproduzierbarkeit und
+                  praktische Lösungen in der Akustik}}{% endraw %},
+    author    = {Wierstorf, Hagen and Spors, Sascha and Geier, Matthias},
     booktitle = {Fortschritte der Akustik - DAGA 2017},
     publisher = {DEGA e.V.},
-    address = {Kiel, Germany},
-    month = {March},
-    year = {2017}
+    address   = {Kiel, Germany},
+    month     = {March},
+    year      = {2017}
 }
 ```
 

@@ -19,16 +19,16 @@ published: true
 
 ```latex
 @inproceedings{Ciba2012,
-    title = {Employing a binaural auditory model to classify everyday sound
-             events},
-    author = {Ciba, Simon and Helwani, Karim and Wierstorf, Hagen and
-              Obermayer, Klaus and Raake, Alexander and Spors, Sascha},
+    title     = {Employing a binaural auditory model to classify everyday sound
+                 events},
+    author    = {Ciba, Simon and Helwani, Karim and Wierstorf, Hagen and
+                 Obermayer, Klaus and Raake, Alexander and Spors, Sascha},
     booktitle = {Fortschritte der Akustik - DAGA 2012},
     publisher = {DEGA e.V.},
-    address = {Darmstadt, Germany},
-    pages = {717-718},
-    month = {March},
-    year = {2012}
+    address   = {Darmstadt, Germany},
+    pages     = {717-718},
+    month     = {March},
+    year      = {2012}
 }
 ```
 

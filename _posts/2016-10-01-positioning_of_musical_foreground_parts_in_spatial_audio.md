@@ -19,17 +19,17 @@ published: true
 
 ```latex
 @inproceedings{Hold2016c,
-    title = {Positioning of Musical Foreground Parts in Surrounding Sound
-             Stages},
-    author = {Hold, Christoph and Nagel, Lukas and Wierstorf, Hagen and
-              Raake, Alexander},
+    title     = {Positioning of Musical Foreground Parts in Surrounding Sound
+                 Stages},
+    author    = {Hold, Christoph and Nagel, Lukas and Wierstorf, Hagen
+                 and Raake, Alexander},
     booktitle = {AES International Conference on Audio for Virtual and Augmented
                  Reality},
-    address = {Los Angeles, CA},
-    pages = {Paper 7-2},
-    month = {October},
-    year = {2016},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=18505}
+    address   = {Los Angeles, CA},
+    pages     = {Paper 7-2},
+    month     = {October},
+    year      = {2016},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=18505}
 }
 ```
 

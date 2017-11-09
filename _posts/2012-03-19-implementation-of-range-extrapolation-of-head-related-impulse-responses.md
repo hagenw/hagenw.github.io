@@ -18,15 +18,15 @@ published: true
 
 ```latex
 @inproceedings{Spors2012a,
-    title = {On the implementation of range extrapolation of head-related
-             impulse responses by virtual sound field synthesis},
-    author = {Spors, Sascha and Wierstorf, Hagen},
+    title     = {On the implementation of range extrapolation of head-related
+                 impulse responses by virtual sound field synthesis},
+    author    = {Spors, Sascha and Wierstorf, Hagen},
     booktitle = {Fortschritte der Akustik - DAGA 2012},
     publisher = {DEGA e.V.},
-    address = {Darmstadt, Germany},
-    pages = {311--312},
-    month = {March},
-    year = {2012}
+    address   = {Darmstadt, Germany},
+    pages     = {311--312},
+    month     = {March},
+    year      = {2012}
 }
 ```
 

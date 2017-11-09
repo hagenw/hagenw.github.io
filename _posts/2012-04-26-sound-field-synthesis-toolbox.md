@@ -18,14 +18,14 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2012b,
-    title = {Sound Field Synthesis Toolbox},
-    author = {Wierstorf, Hagen and Spors, Sascha},
+    title     = {Sound Field Synthesis Toolbox},
+    author    = {Wierstorf, Hagen and Spors, Sascha},
     booktitle = {132nd Convention of the Audio Engineering Society},
-    address = {Budapest, Hungary},
-    pages = {eBrief 50},
-    month = {April},
-    year = {2012},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=16605}
+    address   = {Budapest, Hungary},
+    pages     = {eBrief 50},
+    month     = {April},
+    year      = {2012},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=16605}
 }
 ```
 

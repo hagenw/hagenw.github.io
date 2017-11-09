@@ -18,14 +18,14 @@ published: true
 
 ```latex
 @inproceedings{Spors2014a,
-    title = {Perceptual Properties of Data-based Wave Field Synthesis},
-    author = {Spors, Sascha and Wierstorf, Hagen},
+    title     = {Perceptual Properties of Data-based Wave Field Synthesis},
+    author    = {Spors, Sascha and Wierstorf, Hagen},
     booktitle = {Fortschritte der Akustik - DAGA 2014},
     publisher = {DEGA e.V.},
-    address = {Oldenburg, Germany},
-    pages = {594--595},
-    month = {March},
-    year = {2014}
+    address   = {Oldenburg, Germany},
+    pages     = {594--595},
+    month     = {March},
+    year      = {2014}
 }
 ```
 

@@ -19,15 +19,15 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2013b,
-    title = {Localization in Wave Field Synthesis and higher order Ambisonics at
-             different positions within the listening area},
-    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
+    title     = {Localization in Wave Field Synthesis and higher order
+                 Ambisonics at different positions within the listening area},
+    author    = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {Fortschritte der Akustik - DAGA 2013},
     publisher = {DEGA e.V.},
-    address = {Merano, Italy},
-    month = {March},
-    pages = {2376--2379},
-    year = {2013}
+    address   = {Merano, Italy},
+    month     = {March},
+    pages     = {2376--2379},
+    year      = {2013}
 }
 ```
 

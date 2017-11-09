@@ -14,13 +14,14 @@ published: true
 
 ```latex
 @misc{Raake2017a,
-    title = {% raw %}{{Sound quality research with TWO!EARS}}{% endraw %},
-    author = {Raake, Alexander and Wierstorf, Hagen and Hold, Christoph and Skowronek, Janto},
+    title     = {% raw %}{{Sound quality research with TWO!EARS}}{% endraw %},
+    author    = {Raake, Alexander and Wierstorf, Hagen and Hold, Christoph
+                 and Skowronek, Janto},
     booktitle = {Fortschritte der Akustik - DAGA 2017},
     publisher = {DEGA e.V.},
-    address = {Kiel, Germany},
-    month = {March},
-    year = {2017}
+    address   = {Kiel, Germany},
+    month     = {March},
+    year      = {2017}
 }
 ```
 

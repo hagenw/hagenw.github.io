@@ -17,14 +17,15 @@ published: true
 
 ```latex
 @inproceedings{Winter2017b,
-    title = {The Two!Ears database},
-    author = {Winter, Fiete and Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
+    title     = {The Two!Ears database},
+    author    = {Winter, Fiete and Wierstorf, Hagen and Raake, Alexander
+                 and Spors, Sascha},
     booktitle = {142nd Convention of the Audio Engineering Society},
-    address = {Berlin, Germany},
-    pages = {eBrief 330},
-    month = {May},
-    year = {2017},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=18705}
+    address   = {Berlin, Germany},
+    pages     = {eBrief 330},
+    month     = {May},
+    year      = {2017},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=18705}
 }
 ```
 

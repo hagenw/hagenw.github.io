@@ -21,16 +21,17 @@ published: true
 
 ```latex
 @article{Spors2013b,
-    title = {Spatial Sound With Loudspeakers and Its Perception: A Review of the
-             Current State},
-    author = {Spors, Sascha and Wierstorf, Hagen and Raake, Alexander and
-              Melchior, Frank and Frank, Matthias and Zotter, Franz},
+    title   = {Spatial Sound With Loudspeakers and Its Perception: A Review of
+               the Current State},
+    author  = {Spors, Sascha and Wierstorf, Hagen and Raake, Alexander and
+               Melchior, Frank and Frank, Matthias and Zotter, Franz},
     journal = {Proceedings of the IEEE},
-    volume = {101},
-    number = {9},
-    pages = {1920--1938},
-    year = {2013},
-    doi = {10.1109/JPROC.2013.2264784},
+    volume  = {101},
+    number  = {9},
+    pages   = {1920--1938},
+    year    = {2013},
+    doi     = {10.1109/JPROC.2013.2264784},
+    url     = {https://doi.org/10.1109/JPROC.2013.2264784}
 }
 ```
 

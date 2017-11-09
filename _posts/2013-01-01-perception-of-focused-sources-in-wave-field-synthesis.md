@@ -21,15 +21,15 @@ published: true
 
 ```latex
 @article{Wierstorf2013a,
-    title = {Perception of Focused Sources in Wave Field Synthesis},
-    author = {Wierstorf, Hagen and Raake, Alexander and Geier, Matthias and
-              Spors, Sascha},
+    title   = {Perception of Focused Sources in Wave Field Synthesis},
+    author  = {Wierstorf, Hagen and Raake, Alexander and Geier, Matthias and
+               Spors, Sascha},
     journal = {Journal of the  Audio Engineering Society},
-    volume = {61},
-    number = {1/2},
-    pages = {5--16},
-    year = {2013},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=16663}
+    volume  = {61},
+    number  = {1/2},
+    pages   = {5--16},
+    year    = {2013},
+    url     = {http://www.aes.org/e-lib/browse.cfm?elib=16663}
 }
 ```
 

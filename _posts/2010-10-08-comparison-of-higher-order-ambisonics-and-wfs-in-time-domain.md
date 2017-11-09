@@ -19,15 +19,16 @@ published: true
 
 ```latex
 @inproceedings{Ahrens2010,
-    title = {Comparison of Higher Order Ambisonics and Wave Field Synthesis with
-             Respect to Spatial Discretization Artifacts in Time Domain},
-    author = {Ahrens, Jens and Wierstorf, Hagen and Spors, Sascha},
+    title     = {Comparison of Higher Order Ambisonics and Wave Field Synthesis
+                 with Respect to Spatial Discretization Artifacts in Time
+                 Domain},
+    author    = {Ahrens, Jens and Wierstorf, Hagen and Spors, Sascha},
     booktitle = {40th International Conference of the Audio Engineering Society},
-    address = {Tokyo, Japan},
-    pages = {Paper 6-1},
-    month = {October},
-    year = {2010},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=15563}
+    address   = {Tokyo, Japan},
+    pages     = {Paper 6-1},
+    month     = {October},
+    year      = {2010},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=15563}
 }
 ```
 

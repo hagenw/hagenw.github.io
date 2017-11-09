@@ -16,12 +16,12 @@ published: true
 
 ```latex
 @inproceedings{Raake2014,
-    title = {% raw %}{{A case for TWO!EARS in audio quality assessment}}{% endraw %},
-    author = {Raake, Alexander and Wierstorf, Hagen and Blauert, Jens},
+    title     = {% raw %}{{A case for TWO!EARS in audio quality assessment}}{% endraw %},
+    author    = {Raake, Alexander and Wierstorf, Hagen and Blauert, Jens},
     booktitle = {Forum Acusticum},
-    address = {Krakow, Poland},
-    month = {September},
-    year = {2014}
+    address   = {Krakow, Poland},
+    month     = {September},
+    year      = {2014}
 }
 ```
 

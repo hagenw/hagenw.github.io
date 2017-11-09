@@ -18,19 +18,19 @@ published: true
 
 ```latex
 @inbook{Frank2014,
-    title= {Spatial Audio Rendering},
-    author = {Frank, Matthias and Zotter, Franz and Wierstorf, Hagen and
-              Spors, Sascha},
-    editors = {M\"{o}ller, Sebastian and Raake, Alexander},
-    booktitle = {Quality of Experience: Advanced Concepts, Applications and
-                 Methods},
-    publisher = {Springer},
-    address = {Berlin Heidelberg},
-    pages = {247--260},
-    year = {2014},
-    isbn = {978-3-319-02681-7},
-    doi = {10.1007/978-3-319-02681-7_17},
-    url = {https://doi.org/10.1007/978-3-319-02681-7_17}
+    title      = {Spatial Audio Rendering},
+    author     = {Frank, Matthias and Zotter, Franz and Wierstorf, Hagen
+                  and Spors, Sascha},
+    editors    = {M\"{o}ller, Sebastian and Raake, Alexander},
+    booktitle  = {Quality of Experience: Advanced Concepts, Applications and
+                  Methods},
+    publisher  = {Springer},
+    address    = {Berlin Heidelberg},
+    pages      = {247--260},
+    year       = {2014},
+    isbn       = {978-3-319-02681-7},
+    doi        = {10.1007/978-3-319-02681-7_17},
+    url        = {https://doi.org/10.1007/978-3-319-02681-7_17}
 }
 ```
 

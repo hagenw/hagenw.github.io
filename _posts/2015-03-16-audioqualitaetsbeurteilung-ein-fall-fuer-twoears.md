@@ -15,12 +15,12 @@ published: true
 
 ```latex
 @misc{Raake2015,
-    title = {% raw %}{{Audioqualit\"{a}tsbeurteilung: Ein Fall für TWO!EARS}}{% endraw %},
-    author = {Raake, Alexander and Wierstorf, Hagen and Blauert, Jens},
+    title     = {% raw %}{{Audioqualit\"{a}tsbeurteilung: Ein Fall für TWO!EARS}}{% endraw %},
+    author    = {Raake, Alexander and Wierstorf, Hagen and Blauert, Jens},
     booktitle = {Fortschritte der Akustik - DAGA 2015},
-    address = {Nuremberg, Germany},
-    month = {March},
-    year = {2015}
+    address   = {Nuremberg, Germany},
+    month     = {March},
+    year      = {2015}
 }
 ```
 

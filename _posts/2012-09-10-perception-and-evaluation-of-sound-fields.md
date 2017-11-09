@@ -17,13 +17,13 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2012c,
-    title = {Perception and evaluation of sound fields},
-    author = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
+    title     = {Perception and evaluation of sound fields},
+    author    = {Wierstorf, Hagen and Spors, Sascha and Raake, Alexander},
     booktitle = {59th Open Seminar on Acoustics},
-    address = {Boszkowo, Poland},
-    pages = {263--268},
-    month = {September},
-    year = {2012}
+    address   = {Boszkowo, Poland},
+    pages     = {263--268},
+    month     = {September},
+    year      = {2012}
 }
 ```
 

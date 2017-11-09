@@ -21,15 +21,15 @@ published: true
 
 ```latex
 @article{Wierstorf2017a,
-   title = {Assessing localization accuracy in sound field synthesis},
-   author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
+   title   = {Assessing localization accuracy in sound field synthesis},
+   author  = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
    journal = {The Journal of the Acoustical Society of America},
-   year = {2017},
-   volume = {141},
-   number = {2},
-   pages = {1111--1119},
-   url = {http://dx.doi.org/10.1121/1.4976061},
-   doi = {10.1121/1.4795780}
+   year    = {2017},
+   volume  = {141},
+   number  = {2},
+   pages   = {1111--1119},
+   doi     = {10.1121/1.4795780},
+   url     = {http://dx.doi.org/10.1121/1.4976061}
 }
 ```
 

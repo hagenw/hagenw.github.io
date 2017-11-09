@@ -16,14 +16,14 @@ published: true
 
 ```latex
 @misc{Hold2017a,
-    title = {% raw %}{{Popmusik und Wellenfeldsynthese: Der Einfluss der
-    Tonmischung}}{% endraw %},
-    author = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
+    title     = {% raw %}{{Popmusik und Wellenfeldsynthese: Der Einfluss der
+                  Tonmischung}}{% endraw %},
+    author    = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2017},
     publisher = {DEGA e.V.},
-    address = {Kiel, Germany},
-    month = {March},
-    year = {2017}
+    address   = {Kiel, Germany},
+    month     = {March},
+    year      = {2017}
 }
 ```
 

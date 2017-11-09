@@ -17,15 +17,15 @@ published: true
 
 ```latex
 @inproceedings{Spors2013a,
-    title = {A Virtual Endfire Loudspeaker Array for the Generation of Sound
-             Beams},
-    author = {Spors, Sascha and Wierstorf, Hagen},
+    title     = {A Virtual Endfire Loudspeaker Array for the Generation of
+                 Sound Beams},
+    author    = {Spors, Sascha and Wierstorf, Hagen},
     booktitle = {Fortschritte der Akustik - DAGA 2013},
     publisher = {DEGA e.V.},
-    address = {Merano, Italy},
-    pages = {2349--2351},
-    month = {March},
-    year = {2013}
+    address   = {Merano, Italy},
+    pages     = {2349--2351},
+    month     = {March},
+    year      = {2013}
 }
 ```
 

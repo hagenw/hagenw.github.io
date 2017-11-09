@@ -17,14 +17,15 @@ published: true
 
 ```latex
 @inproceedings{Hold2016a,
-    title = {% raw %}{{Tonmischung für Stereophonie und Wellenfeldsynthese im Vergleich}}{% endraw %},
-    author = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
+    title     = {% raw %}{{Tonmischung für Stereophonie und Wellenfeldsynthese im
+                  Vergleich}}{% endraw %},
+    author    = {Hold, Christoph and Wierstorf, Hagen and Raake, Alexander},
     booktitle = {Fortschritte der Akustik - DAGA 2015},
     publisher = {DEGA e.V.},
-    address = {Aachen, Germany},
-    pages = {1023--1026},
-    month = {March},
-    year = {2016}
+    address   = {Aachen, Germany},
+    pages     = {1023--1026},
+    month     = {March},
+    year      = {2016}
 }
 ```
 

@@ -20,15 +20,15 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2008a,
-    title = {% raw %}{{Melodiediskrimination für Kammfilterrauschen: zeitliche oder
-              spektrale Kodierung?}}{% endraw %},
-    author = {Wierstorf, Hagen and Uppenkamp, Stefan},
+    title     = {% raw %}{{Melodiediskrimination für Kammfilterrauschen: zeitliche
+                  oder spektrale Kodierung?}}{% endraw %},
+    author    = {Wierstorf, Hagen and Uppenkamp, Stefan},
     booktitle = {Fortschritte der Akustik - DAGA 2008},
     publisher = {DEGA e.V.},
-    address = {Dresden, Germany},
-    pages = {173--174},
-    month = {March},
-    year = {2008}
+    address   = {Dresden, Germany},
+    pages     = {173--174},
+    month     = {March},
+    year      = {2008}
 }
 ```
 

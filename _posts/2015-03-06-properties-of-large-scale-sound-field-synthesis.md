@@ -18,14 +18,15 @@ published: true
 
 ```latex
 @inproceedings{Ahrens2015,
-    title = {Properties of Large-scale Sound Field Synthesis},
-    author = {Ahrens, Jens and Wierstorf, Hagen},
-    booktitle = {57th International Conference of the Audio Engineering Society},
-    address = {Hollywood, CA},
-    pages = {Paper 6-1},
-    month = {March},
-    year = {2015},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=17609}
+    title     = {Properties of Large-scale Sound Field Synthesis},
+    author    = {Ahrens, Jens and Wierstorf, Hagen},
+    booktitle = {57th International Conference of the Audio Engineering
+                 Society},
+    address   = {Hollywood, CA},
+    pages     = {Paper 6-1},
+    month     = {March},
+    year      = {2015},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=17609}
 }
 ```
 

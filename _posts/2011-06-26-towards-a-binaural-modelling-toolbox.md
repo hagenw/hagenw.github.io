@@ -17,15 +17,15 @@ published: true
 
 ```latex
 @inproceedings{Soendergaard2011,
-    title = {Towards a binaural modelling toolbox},
-    author = {S{\o}ndergaard, Peter L. and Culling, John F. and Dau, Torsten and
-              Le Goff, Nicolas and Jepsen, Morten L. and Majdak, Piotr and
-              Wierstorf, Hagen},
-    address = {Aalborg, Denmark},
+    title     = {Towards a binaural modelling toolbox},
+    author    = {S{\o}ndergaard, Peter L. and Culling, John F. and Dau, Torsten
+                 and Le Goff, Nicolas and Jepsen, Morten L. and Majdak, Piotr
+                 and Wierstorf, Hagen},
+    address   = {Aalborg, Denmark},
     booktitle = {Forum Acusticum},
-    pages = {2081--2086},
-    month = {June},
-    year = {2011}
+    pages     = {2081--2086},
+    month     = {June},
+    year      = {2011}
 }
 ```
 

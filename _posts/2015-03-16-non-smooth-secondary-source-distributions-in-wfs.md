@@ -17,14 +17,15 @@ published: true
 
 ```latex
 @inproceedings{Spors2015,
-    title = {Non-Smooth Secondary Source Distributions in Wave Field Synthesis},
-    author = {Spors, Sascha and Schultz, Frank and Wierstorf, Hagen},
+    title     = {Non-Smooth Secondary Source Distributions in Wave Field
+                 Synthesis},
+    author    = {Spors, Sascha and Schultz, Frank and Wierstorf, Hagen},
     booktitle = {Fortschritte der Akustik - DAGA 2015},
     publisher = {DEGA e.V.},
-    address = {Nuremberg, Germany},
-    pages = {1591--1594},
-    month = {March},
-    year = {2015}
+    address   = {Nuremberg, Germany},
+    pages     = {1591--1594},
+    month     = {March},
+    year      = {2015}
 }
 ```
 

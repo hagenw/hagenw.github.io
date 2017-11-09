@@ -18,14 +18,14 @@ published: true
 
 ```latex
 @misc{Raake2016a,
-    title = {Assessment of audio quality and experience using binaural-hearing
-             models},
-    author = {Raake, Alexander and Wierstorf, Hagen},
+    title     = {Assessment of audio quality and experience using
+                 binaural-hearing models},
+    author    = {Raake, Alexander and Wierstorf, Hagen},
     booktitle = {22nd International Congress on Acoustics (ICA)},
-    address = {Buenos Aires, Argentina},
-    pages = {Paper 346},
-    month = {September},
-    year = {2016}
+    address   = {Buenos Aires, Argentina},
+    pages     = {Paper 346},
+    month     = {September},
+    year      = {2016}
 }
 ```
 

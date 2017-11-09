@@ -19,15 +19,15 @@ published: true
 
 ```latex
 @inproceedings{Spors2011,
-    title = {Interpolation and Range Extrapolation of Head-Related Transfer
-             Functions Using Virtual Local Wave Field Synthesis},
-    author = {Spors, Sascha and Wierstorf, Hagen and Ahrens, Jens},
+    title     = {Interpolation and Range Extrapolation of Head-Related Transfer
+                 Functions Using Virtual Local Wave Field Synthesis},
+    author    = {Spors, Sascha and Wierstorf, Hagen and Ahrens, Jens},
     booktitle = {130th Convention of the Audio Engineering Society},
-    address = {London, UK},
-    pages = {preprint 8392},
-    month = {May},
-    year = {2011},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=15859}
+    address   = {London, UK},
+    pages     = {preprint 8392},
+    month     = {May},
+    year      = {2011},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=15859}
 }
 ```
 

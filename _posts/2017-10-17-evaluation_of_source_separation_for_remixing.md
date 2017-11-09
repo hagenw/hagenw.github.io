@@ -17,9 +17,11 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2017d,
-    title     = {Perceptual Evaluation of Source Separation for Remixing Music},
-    author    = {Wierstorf, Hagen and Ward, Dominic and Grais, Emad M. and
-                 Plumbley, Mark D. and Mason, Russell and Hummersone, Chirs},
+    title     = {Perceptual Evaluation of Source Separation for Remixing
+                 Music},
+    author    = {Wierstorf, Hagen and Ward, Dominic and Grais, Emad M.
+                 and Plumbley, Mark D. and Mason, Russell
+                 and Hummersone, Chirs},
     booktitle = {143rd Convention of the Audio Engineering Society},
     address   = {New York, NY},
     pages     = {preprint 9880},

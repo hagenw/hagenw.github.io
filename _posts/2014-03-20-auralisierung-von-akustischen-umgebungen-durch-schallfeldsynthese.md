@@ -14,11 +14,11 @@ published: true
 
 ```latex
 @inproceedings{Spors2014b,
-    title = {% raw %}{{Auralisierung von akustischen Umgebungen durch Schallfeldsynthese}}{% endraw %},
-    author = {Spors, Sascha and Wierstorf, Hagen},
+    title     = {% raw %}{{Auralisierung von akustischen Umgebungen durch Schallfeldsynthese}}{% endraw %},
+    author    = {Spors, Sascha and Wierstorf, Hagen},
     booktitle = {DGA-Jahrestagung},
-    month = {March},
-    year = {2014}
+    month     = {March},
+    year      = {2014}
 }
 ```
 

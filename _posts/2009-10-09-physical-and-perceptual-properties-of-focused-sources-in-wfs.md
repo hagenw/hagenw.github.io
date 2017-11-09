@@ -19,16 +19,16 @@ published: true
 
 ```latex
 @inproceedings{Spors2009,
-    title = {Physical and Perceptual Properties of Focused Virtual Sources in
-             Wave Field Synthesis},
-    author = {Spors, Sascha and Wierstorf, Hagen and Geier, Matthias and
-              Ahrens, Jens},
+    title     = {Physical and Perceptual Properties of Focused Virtual Sources
+                 in Wave Field Synthesis},
+    author    = {Spors, Sascha and Wierstorf, Hagen and Geier, Matthias and
+                 Ahrens, Jens},
     booktitle = {127th Convention of the Audio Engineering Society},
-    address = {New York, NY},
-    pages = {preprint 7914},
-    month = {October},
-    year = {2009},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=15109}
+    address   = {New York, NY},
+    pages     = {preprint 7914},
+    month     = {October},
+    year      = {2009},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=15109}
 }
 ```
 

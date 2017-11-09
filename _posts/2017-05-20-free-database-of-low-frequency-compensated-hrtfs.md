@@ -17,15 +17,16 @@ published: true
 
 ```latex
 @inproceedings{Erbes2017a,
-    title = {Free database of low-frequency corrected head-related transfer
-             functions and headphone compensation filters},
-    author = {Erbes, Vera and Geier, Matthias and Wierstorf, Hagen and Spors, Sascha},
+    title     = {Free database of low-frequency corrected head-related transfer
+                 functions and headphone compensation filters},
+    author    = {Erbes, Vera and Geier, Matthias and Wierstorf, Hagen
+                 and Spors, Sascha},
     booktitle = {142nd Convention of the Audio Engineering Society},
-    address = {Berlin, Germany},
-    pages = {eBrief 325},
-    month = {May},
-    year = {2017},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=18700}
+    address   = {Berlin, Germany},
+    pages     = {eBrief 325},
+    month     = {May},
+    year      = {2017},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=18700}
 }
 ```
 

@@ -15,15 +15,16 @@ published: true
 
 ```latex
 @inproceedings{Winter2017c,
-    title = {% raw %}{{Azimuthal Localization in 2.5D Near-Field-Compensated
-              Higher Order Ambisonics}}{% endraw %},
-    author = {Winter, Fiete and Hahn, Nara and Wierstorf, Hagen and Spors, Sascha},
-    booktitle = {173rd Meeting of the Acoustical Society of America and
-                 the 8th Forum Acusticum},
+    title     = {% raw %}{{Azimuthal Localization in 2.5D Near-Field-Compensated
+                  Higher Order Ambisonics}}{% endraw %},
+    author    = {Winter, Fiete and Hahn, Nara and Wierstorf, Hagen
+                 and Spors, Sascha},
+    booktitle = {173rd Meeting of the Acoustical Society of America
+                 and the 8th Forum Acusticum},
     publisher = {Acoustical Society of America},
-    address = {Boston, MA},
-    month = {June},
-    year = {2017}
+    address   = {Boston, MA},
+    month     = {June},
+    year      = {2017}
 }
 ```
 

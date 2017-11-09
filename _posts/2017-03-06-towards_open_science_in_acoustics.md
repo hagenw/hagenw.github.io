@@ -18,14 +18,14 @@ published: true
 
 ```latex
 @misc{Spors2017a,
-    title = {% raw %}{{Towards Open Science in Acoustics: Foundations and Best
-    Practices}}{% endraw %},
-    author = {Spors, Sascha and Geier, Matthias and Wierstorf, Hagen},
+    title     = {% raw %}{{Towards Open Science in Acoustics: Foundations and Best
+                  Practices}}{% endraw %},
+    author    = {Spors, Sascha and Geier, Matthias and Wierstorf, Hagen},
     booktitle = {Fortschritte der Akustik - DAGA 2017},
     publisher = {DEGA e.V.},
-    address = {Kiel, Germany},
-    month = {March},
-    year = {2017}
+    address   = {Kiel, Germany},
+    month     = {March},
+    year      = {2017}
 }
 ```
 

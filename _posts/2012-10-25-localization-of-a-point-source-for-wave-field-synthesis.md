@@ -20,15 +20,15 @@ published: true
 
 ```latex
 @inproceedings{Wierstorf2012d,
-    title = {Localization of a Virtual Point Source within the Listening Area
-             for Wave Field Synthesis},
-    author = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
+    title     = {Localization of a Virtual Point Source within the Listening
+                 Area for Wave Field Synthesis},
+    author    = {Wierstorf, Hagen and Raake, Alexander and Spors, Sascha},
     booktitle = {133rd Audio Engineering Society Convention},
-    address = {San Francisco, CA},
-    pages = {preprint 8743},
-    month = {October},
-    year = {2012},
-    url = {http://www.aes.org/e-lib/browse.cfm?elib=16485}
+    address   = {San Francisco, CA},
+    pages     = {preprint 8743},
+    month     = {October},
+    year      = {2012},
+    url       = {http://www.aes.org/e-lib/browse.cfm?elib=16485}
 }
 ```
 
