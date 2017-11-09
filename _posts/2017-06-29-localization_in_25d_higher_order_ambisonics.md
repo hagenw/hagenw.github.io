@@ -14,9 +14,9 @@ published: true
 ### Bibtex
 
 ```latex
-@misc{Winter2017c,
+@inproceedings{Winter2017c,
     title = {% raw %}{{Azimuthal Localization in 2.5D Near-Field-Compensated
-            Higher Order Ambisonics}}{% endraw %},
+              Higher Order Ambisonics}}{% endraw %},
     author = {Winter, Fiete and Hahn, Nara and Wierstorf, Hagen and Spors, Sascha},
     booktitle = {173rd Meeting of the Acoustical Society of America and
                  the 8th Forum Acusticum},
