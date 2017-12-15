@@ -9,6 +9,7 @@ short: "WASPAA"
 pages: "160-164"
 year: "2017"
 doi: "10.1109/WASPAA.2017.8170015"
+link: "https://doi.org/10.1109/WASPAA.2017.8170015"
 published: true
 ---
 
