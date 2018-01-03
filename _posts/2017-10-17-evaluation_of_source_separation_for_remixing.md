@@ -9,6 +9,7 @@ short: "AES"
 papernumber: "9880"
 year: "2017"
 link: "http://www.aes.org/e-lib/browse.cfm?elib=19277"
+paper: "wierstorf_et_al-2017-evaluation_of_source_separation_for_remixing.pdf"
 presentation: "wierstorf_et_al-2017-evaluation_of_source_separation_for_remixing-presentation.pdf"
 published: true
 ---
