@@ -12,8 +12,8 @@ layout: default
     <p>
         {% if page.author %}{{ page.author }}, {% endif %}
         {% if page.title %}{% if page.book %}<em>{% else %}"{% endif %}{{ page.title }}{% if page.book %}</em>, {% else %}," {% endif %}{% endif %}
-        {% if page.proceedings %}In <em>{{ page.proceedings }}</em>, {% endif %}
-        {% if page.bookchapter %}In <em>{{ page.bookchapter }}</em>, {% if page.editor %}Ed. {{ page.editor }}, {% endif %}{% if page.editors %}Eds. {{ page.editors }}, {% endif %}{% endif %}
+        {% if page.proceedings %}in <em>{{ page.proceedings }}</em>, {% endif %}
+        {% if page.bookchapter %}in <em>{{ page.bookchapter }}</em>, {% if page.editor %}Ed. {{ page.editor }}, {% endif %}{% if page.editors %}Eds. {{ page.editors }}, {% endif %}{% endif %}
         {% if page.journal %}{{ page.journal }}{% if page.volume %} <strong>{{ page.volume }}</strong>{% endif %}, {% endif %}
         {% if page.pages %}p. {{ page.pages }} {% endif %}
         {% if page.papernumber %}Paper {{ page.papernumber }}{% endif %}
