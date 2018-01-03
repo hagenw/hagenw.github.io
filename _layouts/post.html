@@ -19,10 +19,10 @@ layout: default
         {% if page.papernumber %}Paper {{ page.papernumber }}{% endif %}
         {% if page.ebriefnumber %}eBrief {{ page.ebriefnumber }}{% endif %}
         {% if page.year %}({{ page.year }}).{% endif %}
-        {% if page.link %} <a href="{{ page.link }}">[ link ]</a> {% endif %}
-        {% if page.paper %} <a href="{{ site.baseurl }}/pubs/{{ page.paper }}">[ paper ]</a> {% endif %}
-        {% if page.presentation %} <a href="{{ site.baseurl }}/pubs/{{ page.presentation }}">[ presentation ]</a> {% endif %}
-        {% if page.poster %} <a href="{{ site.baseurl }}/pubs/{{ page.poster }}">[ poster ]</a> {% endif %}
+        {% if page.link %} <a href="{{ page.link }}">[&nbsp;link&nbsp;]</a> {% endif %}
+        {% if page.paper %} <a href="{{ site.baseurl }}/pubs/{{ page.paper }}">[&nbsp;paper&nbsp;]</a> {% endif %}
+        {% if page.presentation %} <a href="{{ site.baseurl }}/pubs/{{ page.presentation }}">[&nbsp;presentation&nbsp;]</a> {% endif %}
+        {% if page.poster %} <a href="{{ site.baseurl }}/pubs/{{ page.poster }}">[&nbsp;poster&nbsp;]</a> {% endif %}
     </p>
     {{ content }}
   </div>
