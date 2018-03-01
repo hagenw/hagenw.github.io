@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'DejaVu Sans Mono';
-    src: url('../fonts/eot/DejaVuSansMono-Bold-webfont.eot');
     src: local('DejaVu Sans Mono Bold'),
+         local('DejaVuSansMono-Bold'),
+         url('../fonts/eot/DejaVuSansMono-Bold-webfont.eot'),
          url('../fonts/eot/DejaVuSansMono-Bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/woff/DejaVuSansMono-Bold-webfont.woff') format('woff'),
          url('../fonts/ttf/DejaVuSansMono-Bold-webfont.ttf') format('truetype'),
@@ -11,8 +12,9 @@
 }
 @font-face {
     font-family: 'DejaVu Sans Mono';
-    src: url('../fonts/eot/DejaVuSansMono-BoldOblique-webfont.eot');
     src: local('DejaVu Sans Mono Bold Oblique'),
+         local('DejaVuSansMono-BoldOblique'),
+         url('../fonts/eot/DejaVuSansMono-BoldOblique-webfont.eot'),
          url('../fonts/eot/DejaVuSansMono-BoldOblique-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/woff/DejaVuSansMono-BoldOblique-webfont.woff') format('woff'),
          url('../fonts/ttf/DejaVuSansMono-BoldOblique-webfont.ttf') format('truetype'),
@@ -22,8 +24,9 @@
 }
 @font-face {
     font-family: 'DejaVu Sans Mono';
-    src: url('../fonts/eot/DejaVuSansMono-webfont.eot');
     src: local('DejaVu Sans Mono Regular'),
+         local('DejaVuSans-Mono'),
+         url('../fonts/eot/DejaVuSansMono-webfont.eot'),
          url('../fonts/eot/DejaVuSansMono-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/woff/DejaVuSansMono-webfont.woff') format('woff'),
          url('../fonts/ttf/DejaVuSansMono-webfont.ttf') format('truetype'),
@@ -33,8 +36,9 @@
 }
 @font-face {
     font-family: 'DejaVu Sans Mono';
-    src: url('../fonts/eot/DejaVuSansMono-Oblique-webfont.eot');
     src: local('DejaVu Sans Mono Regular Oblique'),
+         local('DejaVuSansMono-Oblique'),
+         url('../fonts/eot/DejaVuSansMono-Oblique-webfont.eot'),
          url('../fonts/eot/DejaVuSansMono-Oblique-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/woff/DejaVuSansMono-Oblique-webfont.woff') format('woff'),
          url('../fonts/ttf/DejaVuSansMono-Oblique-webfont.ttf') format('truetype'),
