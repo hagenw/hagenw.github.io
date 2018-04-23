@@ -17,8 +17,8 @@ published: true
 
 ```latex
 @inproceedings{Winter2017d,
-    title     = {{Colouration in 2.5D local wave field synthesis using spatial
-                  bandwidth-limitation}},
+    title     = {% raw %}{{Colouration in 2.5D local wave field synthesis using spatial
+                  bandwidth-limitation}}{% endraw %},
     author    = {Winter, Fiete and Hold, Christoph and Wierstorf, Hagen
                  and Raake, Alexander and Spors, Sascha},
     booktitle = {IEEE Workshop on Applications of Signal Processing to Audio and
