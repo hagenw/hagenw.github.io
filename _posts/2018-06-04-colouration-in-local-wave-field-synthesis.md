@@ -6,9 +6,9 @@ author: "F Winter, H Wierstorf, C Hold, F Krüger, A Raake, S Spors"
 title: "Colouration in Local Wave Field Synthesis"
 journal: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
 journalshort: "TASLP"
-pages: ""
-volume: ""
-number: ""
+pages: "1913-1924"
+volume: "26"
+number: "10"
 year: "2018"
 link: "https://doi.org/10.1109/TASLP.2018.2842435"
 published: true
@@ -22,9 +22,9 @@ published: true
     author  = {Winter, Fiete and Wierstorf, Hagen and Hold, Christoph and
                Krüger, Frank and Raake, Alexander and Spors, Sascha},
     journal = {IEEE/ACM Transactions on Audio, Speech, and Language Processing},
-    volume  = {},
-    number  = {},
-    pages   = {},
+    volume  = {26},
+    number  = {10},
+    pages   = {1913-1924},
     year    = {2018},
     doi     = {10.1109/TASLP.2018.2842435}
 }
