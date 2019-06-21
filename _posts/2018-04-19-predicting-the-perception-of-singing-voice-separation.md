@@ -9,7 +9,7 @@ separation"
 proceedings: "IEEE International Conference on Acoustics, Speech and Signal
 Processing (ICASSP)"
 short: "ICASSP"
-pages: ""
+pages: "596-600"
 year: "2018"
 link: "https://doi.org/10.1109/ICASSP.2018.8462194"
 paper: "ward_et_al-2018-predicting_the_perception_of_singing_voice_separation.pdf"
@@ -28,6 +28,7 @@ published: true
     booktitle = {IEEE International Conference on Acoustics, Speech and Signal
                  Processing (ICASSP)},
     address   = {Calgary, Canada},
+    pages     = {596--600},
     month     = {April},
     year      = {2018},
     doi       = {10.1109/ICASSP.2018.8462194}
