@@ -44,6 +44,7 @@ hr {
   margin-right: auto;
   max-width: 800px;
   font-weight: normal;
+  font-size: 20px;
 }
 
 .pull-left {
@@ -157,10 +158,6 @@ hr {
   }
 }
 
-.post-list {
-  background-color: lighten($light-gray-color, 17%);
-}
-
 .category-title {
   margin: 1em 0 0.5em 0;
 
@@ -174,7 +171,7 @@ hr {
   display: block;
 
   a {
-    color: $action-color;
+    color: $base-font-color;
     font-weight: bold;
   }
 
@@ -200,6 +197,7 @@ hr {
   display: inline-block;
   letter-spacing: 1px;
   font-size: rem(14);
+  font-family: $heading-font-family;
 }
 
 .post-link,
@@ -228,7 +226,6 @@ hr {
 }
 
 .share {
-  border-top: 0.2em solid lighten($light-gray-color, 13%);
   padding-top: $base-spacing;
   margin-top: $base-spacing;
 
@@ -339,4 +336,9 @@ ul.project {
       color: $blue-color;
     }
   }
+}
+
+code {
+  font-family: "DejaVu Sans Mono", monospace;
+  font-size: 0.9em;
 }
