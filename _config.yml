@@ -37,7 +37,7 @@ author:
 # social settings
 og_locale: "en_US"
 
-gems:
+plugins:
   - bourbon
 
 # navbar pages
