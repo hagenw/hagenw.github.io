@@ -11,7 +11,7 @@ Processing (ICASSP)"
 short: "ICASSP"
 pages: ""
 year: "2018"
-link: ""
+link: "https://doi.org/10.1109/ICASSP.2018.8462194"
 paper: "ward_et_al-2018-predicting_the_perception_of_singing_voice_separation.pdf"
 poster: "ward_et_al-2018-predicting_the_perception_of_singing_voice_separation-poster.pdf"
 published: true
@@ -29,7 +29,8 @@ published: true
                  Processing (ICASSP)},
     address   = {Calgary, Canada},
     month     = {April},
-    year      = {2018}
+    year      = {2018},
+    doi       = {10.1109/ICASSP.2018.8462194}
 }
 ```
 
