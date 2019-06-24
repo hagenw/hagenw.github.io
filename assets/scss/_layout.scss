@@ -334,6 +334,32 @@ ul.project {
       color: $blue-color;
     }
   }
+
+  .navbar a.menu {
+    position: absolute;
+    right: 7%;
+    display: block;
+    float: right;
+    width: 16px;
+    height: 16px;
+    color: white;
+    .icons {
+      font-size: 32px;
+    }
+  }
+
+  .navbar nav {
+    display: none;
+    float: none;
+    width: 100%;
+    padding-right: 0;
+  }
+
+  .navbar nav:before {
+    display: table;
+    clear: both;
+    content: '';
+  }
 }
 
 code {
