@@ -315,17 +315,15 @@ ul.project {
 // This applies from 0px to 600px
 @media (max-width: 600px) {
   .date-label {
-    float: left !important;
     border: 0;
     margin-left: 0 !important;
     margin-top: 2px;
-    margin-right: 1em;
   }
 
   .post-item {
-    border: 1px solid lighten($light-gray-color, 10%);
-    padding: 0 0.5em;
-    background: lighten($light-gray-color, 15%);
+    .article-title {
+      width: 80%;
+    }
   }
 
   .post-link {
