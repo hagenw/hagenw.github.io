@@ -4,10 +4,10 @@ title: "Hagen"
 title2: "Wierstorf" # default: ""
 description: "Researcher in all things spatial audio"
 keywords: "Hagen Wierstorf, researcher, publications, spatial audio, reproducible research, psychoacoustics"
-url: http://hagenw.github.io # site url
+url: https://hagenw.github.io # site url
 baseurl: null # apply null if repo name is something like username.github.io
 
-repo: http://github.com/hagenw/hagenw.github.io
+repo: https://github.com/hagenw/hagenw.github.io
 
 # Build settings
 permalink   : /:year/:title/
@@ -30,9 +30,9 @@ author:
   bio      : "Researcher in all things spatial audio"
   thumb    : /images/author.jpg
   email    : hagenw@posteo.de
-  url      : http://hagenw.github.io
-  github   : http://github.com/hagenw
-  linkedin : http://www.linkedin.com/in/hagen-wierstorf 
+  url      : https://hagenw.github.io
+  github   : https://github.com/hagenw
+  linkedin : https://www.linkedin.com/in/hagen-wierstorf
 
 # social settings
 og_locale: "en_US"
