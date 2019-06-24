@@ -56,16 +56,13 @@ hr {
 }
 
 .link {
-  color: $blue-color;
+  color: #A8A8A8;
   padding-bottom: .05em;
-  border-bottom: 2px solid transparent;
-
-  @include transition(border 300ms linear);
 
   &:hover,
   &:focus,
   &:active {
-    border-bottom: 2px solid $blue-color;
+    color: $blue-color;
   }
 }
 
@@ -102,16 +99,19 @@ hr {
   font-family: $heading-font-family;
 
   a {
-    color: $base-font-color;
+    @extend .link;
+    color: #A8A8A8;
+    border-bottom: none;
     &:hover,
     &:focus,
     &:active {
-      border-bottom: none;
-  }
+        border-bottom: none;
+        color: $blue-color;
+    }
 
   }
   span {
-    color: #0086B3;
+    color: #5e5e5e;
   }
 }
 
