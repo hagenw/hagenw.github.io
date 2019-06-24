@@ -230,7 +230,11 @@ hr {
   p {
     margin: 0;
     font-size: rem(14);
-    color: $medium-gray-color;
+    color: #A8A8A8;
+  }
+
+  a {
+    @extend .link;
   }
 }
 
@@ -256,7 +260,7 @@ hr {
   small {
     display: block;
     font-size: rem(12);
-    color: darken($medium-gray-color, 10%);
+    color: #A8A8A8;
   }
 
   .block {
