@@ -48,7 +48,8 @@ Matlab/Octave and comes with an online documentation.
 
 The Sound Field Synthesis Toolbox is under constant development. Beside its
 Matlab/Octave version, also a Python version and a discussion of the underlying
-theory is now available under [http://sfstoolbox.org](http://sfstoolbox.org).
+theory is now available under
+[https://sfs.readthedocs.io](https://sfs.readthedocs.io).
 
 If you use the Sound Field Synthesis Toolbox in your research, please cite not
 only this publication, but also the exact version of the toolbox you used. Doi

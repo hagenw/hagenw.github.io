@@ -59,4 +59,4 @@ Matlab together with the [SOFA API for
 Matlab](https://github.com/sofacoustics/API_MO) and the
 [`get_ir()`](https://github.com/sfstoolbox/sfs/blob/master/SFS_ir/get_ir.m)
 function from the [Sound Field Synthesis
-Toolbox](http://matlab.sfstoolbox.org/).
+Toolbox](https://sfs-matlab.readthedocs.io).
