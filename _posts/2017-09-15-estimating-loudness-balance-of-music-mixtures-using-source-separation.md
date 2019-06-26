@@ -18,7 +18,7 @@ published: true
     title     = {Estimating the loudness balance of musical mixtures using
                  audio source separation},
     author    = {Ward, Dominic and Wierstorf, Hagen and Mason, Russel
-                 and Plumbley, Mark D.and Hummersone, Chris},
+                 and Plumbley, Mark D. and Hummersone, Chris},
     booktitle = {3rd Workshop on Intelligent Music Production},
     address   = {Salford, UK},
     month     = {September},
