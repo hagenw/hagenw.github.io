@@ -22,7 +22,7 @@ published: true
                  Music},
     author    = {Wierstorf, Hagen and Ward, Dominic and Grais, Emad M.
                  and Plumbley, Mark D. and Mason, Russell
-                 and Hummersone, Chirs},
+                 and Hummersone, Chris},
     booktitle = {143rd Convention of the Audio Engineering Society},
     address   = {New York, NY},
     pages     = {Paper 9880},
