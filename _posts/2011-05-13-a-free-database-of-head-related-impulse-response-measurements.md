@@ -46,7 +46,14 @@ specific headphone models.
 
 ### Supplementary Material
 
-The original data base has been converted into the [SOFA
+The database was published in the [MAT-File
+format](https://www.mathworks.com/help/pdf_doc/matlab/matfile_format.pdf) at
+http://dev.qu.tu-berlin.de/projects/measurements/.
+That address is no longer available,
+and the original files are now published at
+[10.5281/zenodo.4459911](https://doi.org/10.5281/zenodo.4459911).
+
+The database has been converted into the [SOFA
 format](http://sofaconventions.org) in the meantime and published under
 [10.5281/zenodo.55418](https://doi.org/10.5281/zenodo.55418).
 
