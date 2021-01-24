@@ -2,8 +2,8 @@
 # SEO settings
 title: "Hagen"
 title2: "Wierstorf" # default: ""
-description: "Researcher in all things spatial audio"
-keywords: "Hagen Wierstorf, researcher, publications, spatial audio, reproducible research, psychoacoustics"
+description: "Researcher in audio and AI"
+keywords: "Hagen Wierstorf, researcher, publications, spatial audio, reproducible research, psychoacoustics, emotion recognition, AI, machine learning"
 url: https://hagenw.github.io # site url
 baseurl: null # apply null if repo name is something like username.github.io
 
@@ -26,8 +26,8 @@ sass:
 # Author settings
 author:
   name     : "Hagen Wierstorf"
-  job      : "Post-Doc"
-  bio      : "Researcher in all things spatial audio"
+  job      : "Researcher"
+  bio      : "Researcher in audio and AI"
   thumb    : /images/author.jpg
   email    : hagenw@posteo.de
   url      : https://hagenw.github.io
@@ -39,14 +39,5 @@ og_locale: "en_US"
 
 plugins:
   - bourbon
-
-# navbar pages
-navbar:
-  - slug : publications
-    title : Publications
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
 
 exclude: ["vendor", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
