@@ -25,8 +25,8 @@ permalink: /publications/
         {% endunless %}
         <article class="post-item">
             <span class="post-meta date-label">
-                  {% if post.journalshort %}<span class="red">{{ post.journalshort }}</span>{% endif %}
-                  {% if post.short == "Thesis" %}<span class="blue">{{ post.short }}</span>{% elsif post.short %}{{ post.short }}{% endif %}
+                  {% if post.journalshort %}<span class="black">{{ post.journalshort }}</span>{% endif %}
+                  {% if post.short == "Thesis" %}<span class="black">{{ post.short }}</span>{% elsif post.short %}{{ post.short }}{% endif %}
             </span>
           <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
         </article>
