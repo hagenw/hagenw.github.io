@@ -67,7 +67,7 @@ hr {
   &:hover,
   &:focus,
   &:active {
-    color: $blue-color;
+    color: $magenta-color;
   }
 }
 
@@ -109,7 +109,7 @@ hr {
     &:focus,
     &:active {
         border-bottom: none;
-        color: $blue-color;
+        color: $magenta-color;
     }
 
   }
@@ -279,7 +279,7 @@ code {
     &:focus,
     &:active {
       border-bottom: 2px solid transparent;
-      color: $blue-color;
+      color: $magenta-color;
     }
   }
 
