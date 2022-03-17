@@ -2,12 +2,12 @@
 layout: post
 comments: false
 description: "Wagner et al. - Dawn of the transformer era in speech emotion recognition: closing the valence gap"
-author: "J Wagner, A Triantafyllopoulos, H Wierstorf, M Schmitt, F Eyben, BW Schuller, F Burkhardt"
+author: "J Wagner, A Triantafyllopoulos, H Wierstorf, M Schmitt, F Burkhardt, F Eyben, BW Schuller"
 title: "Dawn of the transformer era in speech emotion recognition: closing the valence gap"
-journal: "preprint"
+journal: "preprint arXiv:2203.07378"
 journalshort: "arXiv"
 pages:
-volume: "arXiv:2203.07378"
+volume:
 number:
 year: "2022"
 link: "https://arxiv.org/abs/2203.07378"
@@ -23,8 +23,7 @@ published: true
     title   = {Dawn of the transformer era in speech emotion recognition:
                closing the valence gap},
     author  = {Wagner, Johannes and Triantafyllopoulos, Andreas and Wierstorf, Hagen and Eyben, Florian and Schuller, Bj\"{o}rn W. and Burkhardt, Felix},
-    journal = {arXiv preprint},
-    volume  = {arXiv:2203.07378},
+    journal = {arXiv preprint arXiv:2203.07378},
     year    = {2022},
     url     = {https://arxiv.org/abs/2203.07378}
 }
