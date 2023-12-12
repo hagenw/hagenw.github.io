@@ -23,7 +23,9 @@ permalink: /publications/
             <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
           {% endif %}
         {% endunless %}
-        {% if !post.hidden %}
+        {% if post.hidden %}
+           <!-- Hidden {{ post.title }} -->
+        {% else %}
           <article class="post-item">
               <span class="post-meta date-label">
                     {% if post.journalshort %}<span class="black">{{ post.journalshort }}</span>{% endif %}
