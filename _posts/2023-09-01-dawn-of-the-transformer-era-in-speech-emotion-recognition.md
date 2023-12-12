@@ -4,32 +4,31 @@ comments: false
 description: "Wagner et al. - Dawn of the transformer era in speech emotion recognition: closing the valence gap"
 author: "J Wagner, A Triantafyllopoulos, H Wierstorf, M Schmitt, F Burkhardt, F Eyben, BW Schuller"
 title: "Dawn of the transformer era in speech emotion recognition: closing the valence gap"
-journal: "preprint arXiv:2203.07378"
-journalshort: "arXiv"
-pages:
-volume:
-number:
-year: "2022"
-link: "https://arxiv.org/abs/2203.07378"
-paper: "wagner_et_al-2022-dawn-of-the-transformer-era-in-speech-emotion-recognition.pdf"
+journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+journalshort: "IEEE TPAMI"
+pages: "10745-10759"
+volume: "45"
+number: "9"
+year: "2023"
+link: "https://arxiv.org/abs/2203.07378v4"
+paper: "wagner_et_al-2023-dawn-of-the-transformer-era-in-speech-emotion-recognition.pdf"
 presentation: 
 published: true
-hidden: true
 ---
-
-The paper has now been published, see:
-https://hagenw.github.io/2023/dawn-of-the-transformer-era-in-speech-emotion-recognition/
 
 ### Bibtex
 
 ```latex
-@article{Wagner2022a,
+@article{Wagner2023a,
     title   = {Dawn of the transformer era in speech emotion recognition:
                closing the valence gap},
     author  = {Wagner, Johannes and Triantafyllopoulos, Andreas and Wierstorf, Hagen and Eyben, Florian and Schuller, Bj\"{o}rn W. and Burkhardt, Felix},
-    journal = {arXiv preprint arXiv:2203.07378},
-    year    = {2022},
-    url     = {https://arxiv.org/abs/2203.07378}
+    journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    volume  = {45},
+    number  = {9},
+    pages   = {10745--10759},
+    year    = {2023},
+    doi     = {10.1109/TPAMI.2023.3263585}
 }
 ```
 
