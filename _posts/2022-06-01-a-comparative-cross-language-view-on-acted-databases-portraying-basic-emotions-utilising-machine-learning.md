@@ -2,7 +2,7 @@
 layout: post
 comments: false
 description: "Burkhardt et al. - A Comparative Cross Language View On Acted Databases Portraying Basic Emotions Utilising Machine Learning"
-author: "F Burkhardt, A Hacker, U Reichel, H Wierstorf, F Eyben, B Schuller"
+author: "F Burkhardt, A Hacker, U Reichel, H Wierstorf, F Eyben, BW Schuller"
 title: "A Comparative Cross Language View On Acted Databases Portraying Basic Emotions Utilising Machine Learning"
 proceedings: "Proceedings of the Thirteenth Language Resources and Evaluation Conference"
 short: "LREC"
@@ -14,11 +14,11 @@ published: true
 ### Bibtex
 
 ```latex
-@misc{Burkhardt2022a,
+@inproceedings{Burkhardt2022a,
     title     = {A Comparative Cross Language View On Acted Databases
                  Portraying Basic Emotions Utilising Machine Learning},
     author    = {Burkhardt, Felix and Hacker, Anabell and Reichel, Uwe
-                 and Wierstorf, Hagen and Eyben, Florian and Schuller, Björn},
+                 and Wierstorf, Hagen and Eyben, Florian and Schuller, Bj\"{o}rn W.},
     booktitle = {Proceedings of the Thirteenth Language Resources
                  and Evaluation Conference},
     publisher = {European Language Resources Association},
