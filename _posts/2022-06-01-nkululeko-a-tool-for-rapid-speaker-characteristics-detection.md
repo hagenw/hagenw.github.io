@@ -2,7 +2,7 @@
 layout: post
 comments: false
 description: "Burkhardt et al. - Nkululeko: A Tool For Rapid Speaker Characteristics Detection"
-author: "F Burkhardt, J Wagner, H Wierstorf, F Eyben, B Schuller"
+author: "F Burkhardt, J Wagner, H Wierstorf, F Eyben, BW Schuller"
 title: "Nkululeko: A Tool For Rapid Speaker Characteristics Detection"
 proceedings: "Proceedings of the Thirteenth Language Resources and Evaluation Conference"
 short: "LREC"
@@ -14,10 +14,10 @@ published: true
 ### Bibtex
 
 ```latex
-@misc{Burkhardt2022b,
+@inproceedings{Burkhardt2022b,
     title     = {Nkululeko: A Tool For Rapid Speaker Characteristics Detection},
     author    = {Burkhardt, Felix and Wagner, Johannes and Wierstorf, Hagen
-                 and Eyben, Florian and Schuller, Björn},
+                 and Eyben, Florian and Schuller, Bj\"{o}rn W.},
     booktitle = {Proceedings of the Thirteenth Language Resources
                  and Evaluation Conference},
     publisher = {European Language Resources Association},
