@@ -22,7 +22,9 @@ published: true
 @article{Wagner2023a,
     title   = {Dawn of the transformer era in speech emotion recognition:
                closing the valence gap},
-    author  = {Wagner, Johannes and Triantafyllopoulos, Andreas and Wierstorf, Hagen and Eyben, Florian and Schuller, Bj\"{o}rn W. and Burkhardt, Felix},
+    author  = {Wagner, Johannes and Triantafyllopoulos, Andreas
+               and Wierstorf, Hagen and Eyben, Florian
+               and Schuller, Bj\"{o}rn W. and Burkhardt, Felix},
     journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
     volume  = {45},
     number  = {9},
